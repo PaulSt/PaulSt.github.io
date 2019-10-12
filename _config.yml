@@ -9,3 +9,6 @@ plainwhite:
   social_links:
     github:  PaulSt
     linkedIn: in/paul-stocker-63961a121/ # format: locale/username
+
+plugins:
+  - jekyll-seo-tag
