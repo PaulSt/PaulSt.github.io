@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+remote_theme: thelehhman/plainwhite-jekyll
+theme: plainwhite
+plainwhite:
+  name: Paul Stocker
+  tagline: PhD Student
+  date_format: "%b %-d, %Y"
+  sitemap: true
+
+  social_links:
+    github:  PaulSt
+    linkedIn: in/paul-stocker-63961a121/ # format: locale/username
