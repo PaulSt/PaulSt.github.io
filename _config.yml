@@ -12,3 +12,6 @@ plainwhite:
 
 plugins:
   - jekyll-seo-tag
+
+title: "Paul Stocker"
+description: "Mathematics PhD Student"
