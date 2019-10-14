@@ -6,8 +6,9 @@ categories: NGSolve
 ---
 
 Two examples of the current Trefftz-DG method using tent pitching. A wave hitting a corner, producing a singularity (left) and a wave in inhomogeneous material (right).
-<img src="/assets/sing.gif" width="49%" align="middle"/>
-<img src="/assets/material.gif" width="49%" align="middle"/>
+
+<img src="/assets/sing.gif" width="40%" align="middle"/>
+<img src="/assets/material.gif" width="40%" align="middle"/>
 
 I am still a little torn about the current way of steering things from python, because it is quite rigid, but at least it is possible to start tent pitching using Trefftz-DG for the accoustic wave equation.
 
