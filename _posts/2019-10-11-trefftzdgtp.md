@@ -17,7 +17,7 @@ We start by importing and setting some parameters:
 from trefftzngs import *
 import netgen.gui
 from ngsolve import *
-    D = initmesh.dim
+D = initmesh.dim
 t = CoordCF(D)
 order = 4
 t_start = 0
