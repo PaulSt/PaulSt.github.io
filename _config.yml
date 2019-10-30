@@ -1,5 +1,6 @@
 remote_theme: thelehhman/plainwhite-jekyll
 theme: plainwhite
+
 plainwhite:
   name: Paul Stocker
   tagline: PhD Student
@@ -10,10 +11,12 @@ plainwhite:
     github:  PaulSt
     linkedIn: in/paul-stocker-63961a121/ # format: locale/username
 
+permalink: /:year/:categories/:title:output_ext
+
 plugins:
   - jekyll-seo-tag
 
 title: "Paul Stocker"
-description: "Mathematics PhD Student"
+description: "Paul Stocker, Mathematics, PhD Student"
 webmaster_verifications:
   google: "ByYdzwgMKaBTrHM7VNNajWnJg8yfcSU41D7OF6E_p1Q"
