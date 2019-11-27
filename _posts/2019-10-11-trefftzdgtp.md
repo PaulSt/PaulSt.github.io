@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Trefftz-DG tent pitching"
-date:   2019-03-23 21:03:36 +0530
+title:  "Space-time Trefftz-DG on tent pitched meshes"
 categories: NGSolve 
 ---
 
