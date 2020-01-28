@@ -11,7 +11,8 @@ plainwhite:
     github:  PaulSt
     linkedIn: in/paul-stocker-63961a121/ # format: locale/username
 
-permalink: /:year/:categories/:title:output_ext
+#permalink: /:year/:categories/:title:output_ext
+permalink: /:year/:title
 
 plugins:
   - jekyll-seo-tag
