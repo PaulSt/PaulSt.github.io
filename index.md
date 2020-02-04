@@ -29,7 +29,7 @@ Publications
 
   * Tent pitching and Trefftz-DG method for the acoustic wave equation  
 Ilaria Perugia, Joachim Schöberl, Paul Stocker, Christoph Wintersteiger   
-Submitted, Preprint: [arXiv:1907.02367 [math.NA]](https://arxiv.org/abs/1907.02367)
+Comput. Math. Appl., 2020, [10.1016/j.camwa.2020.01.006](https://doi.org/10.1016/j.camwa.2020.01.006)
   *  Plane wave-based approximation methods for the Helmholtz equation  
 Paul Stocker,  [Master Thesis](http://othes.univie.ac.at/47577/)
 
