@@ -1,5 +1,6 @@
 ---
 layout: home2
+title: Paul Stocker
 ---
 
 <!--An h1 header-->
