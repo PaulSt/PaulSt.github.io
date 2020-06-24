@@ -27,7 +27,9 @@ Short CV
 
 Publications
 ------------
-
+  * An entropy structure preserving space-time Galerkin method for cross-diffusion systems
+Marcel Braukhoff, Ilaria Perugia, Paul Stocker
+2020, [arXiv:2006.13069](https://arxiv.org/abs/2006.13069)
   * Tent pitching and Trefftz-DG method for the acoustic wave equation  
 Ilaria Perugia, Joachim Schöberl, Paul Stocker, Christoph Wintersteiger   
 Comput. Math. Appl., 2020, [10.1016/j.camwa.2020.01.006](https://doi.org/10.1016/j.camwa.2020.01.006)
