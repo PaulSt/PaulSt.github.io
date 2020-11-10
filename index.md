@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: Paul Stocker
+<!--title: Paul Stocker-->
 ---
 
 <!--An h1 header-->
@@ -27,11 +27,11 @@ Short CV
 
 Publications
 ------------
-  * A space-time quasi-Trefftz DG method for the wave equation with piecewise-smooth coefficients
-Lise-Marie Imbert-Gérard, Andrea Moiola, PS
+  * A space-time quasi-Trefftz DG method for the wave equation with piecewise-smooth coefficients  
+Lise-Marie Imbert-Gérard, Andrea Moiola, PS  
 [arXiv:2011.04617](https://arxiv.org/abs/2011.04617), 2020
   * An entropy structure preserving space-time Galerkin method for cross-diffusion systems  
-Marcel Braukhoff, Ilaria Perugia, PS
+Marcel Braukhoff, Ilaria Perugia, PS  
 [arXiv:2006.13069](https://arxiv.org/abs/2006.13069), 2020
   * Tent pitching and Trefftz-DG method for the acoustic wave equation  
 Ilaria Perugia, Joachim Schöberl, PS, Christoph Wintersteiger   

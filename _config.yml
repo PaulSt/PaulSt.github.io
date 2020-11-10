@@ -6,6 +6,8 @@ plainwhite:
   tagline: PhD Student
   date_format: "%b %-d, %Y"
   sitemap: true
+  portfolio_image:  "assets/portfolio.png" 
+  dark_mode: true
 
   social_links:
     github:  PaulSt
