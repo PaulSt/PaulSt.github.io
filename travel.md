@@ -13,23 +13,23 @@ title: Paul Stocker
 ## Conferences and Workshops
 ### 2020
   * ECCOMAS
-    20/07/20 → 24/07/20
-    Paris, FR
-  * CMAM
+    ~~20/07/20 → 24/07/20
+    Paris, FR~~ 11/01/21 → 15/01/20 Online
+  * ~~CMAM
     13/07/20 → 17/07/20
-    Vienna, AT
-  * ICOSAHOM
+    Vienna, AT~~
+  * ~~ICOSAHOM
     06/07/20 → 10/07/20
-    Vienna, AT
-  * Second Edinburgh-Vienna PDEs workshop
+    Vienna, AT~~
+  * ~~Second Edinburgh-Vienna PDEs workshop
     25/05/20 → 28/05/20
-    Edinburgh, UK
-  * EFEF
+    Edinburgh, UK~~
+  * ~~EFEF
     15/05/20 → 16/05/20
-    Paris, FR
-  * Austrian Numerical Analysis Day 2020:
+    Paris, FR~~
+  * ~~Austrian Numerical Analysis Day 2020:
     06/05/20 → 08/05/20
-    Linz, AT
+    Linz, AT~~
   * Wave Phenomena: Analysis and Numerics:
     24/01/20 → 30/01/20
     Oberwolfach, DE
