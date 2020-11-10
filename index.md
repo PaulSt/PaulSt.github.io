@@ -27,14 +27,17 @@ Short CV
 
 Publications
 ------------
+  * A space-time quasi-Trefftz DG method for the wave equation with piecewise-smooth coefficients
+Lise-Marie Imbert-Gérard, Andrea Moiola, PS
+[arXiv:2011.04617](https://arxiv.org/abs/2011.04617), 2020
   * An entropy structure preserving space-time Galerkin method for cross-diffusion systems  
-Marcel Braukhoff, Ilaria Perugia, Paul Stocker  
+Marcel Braukhoff, Ilaria Perugia, PS
 [arXiv:2006.13069](https://arxiv.org/abs/2006.13069), 2020
   * Tent pitching and Trefftz-DG method for the acoustic wave equation  
-Ilaria Perugia, Joachim Schöberl, Paul Stocker, Christoph Wintersteiger   
+Ilaria Perugia, Joachim Schöberl, PS, Christoph Wintersteiger   
 Comput. Math. Appl., [10.1016/j.camwa.2020.01.006](https://doi.org/10.1016/j.camwa.2020.01.006), 2020
   *  Plane wave-based approximation methods for the Helmholtz equation  
-Paul Stocker,  [Master Thesis](http://othes.univie.ac.at/47577/), 2017
+PS,  [Master Thesis](http://othes.univie.ac.at/47577/), 2017
 
 
 
