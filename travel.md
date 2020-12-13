@@ -30,11 +30,11 @@ title: Paul Stocker
   * ~~Austrian Numerical Analysis Day 2020:
     06/05/20 → 08/05/20
     Linz, AT~~
-  * Wave Phenomena: Analysis and Numerics:
-    24/01/20 → 30/01/20
-    Oberwolfach, DE
 
 ### 2019
+  * Wave Phenomena: Analysis and Numerics:
+    24/11/19 → 30/11/19
+    Oberwolfach, DE
   * 4th VDS Summer School
     22/09/19 → 28/09/19, 
     Weissensee, AT
