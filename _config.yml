@@ -20,7 +20,7 @@ plainwhite:
       url: "/travel"
 
 #permalink: /:year/:categories/:title:output_ext
-permalink: /:year/:title
+permalink: post/:title
 
 plugins:
   - jekyll-seo-tag

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Space-time Trefftz-DG on tent pitched meshes"
-categories: NGSolve Waves 
+categories: NGSolve
 ---
 
 Two examples of the current Trefftz-DG method using tent pitching. A wave hitting a corner, producing a singularity (left) and a wave in inhomogeneous material (right).
