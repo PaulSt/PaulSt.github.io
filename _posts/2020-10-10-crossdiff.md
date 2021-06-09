@@ -71,4 +71,4 @@ $$
 
 Applied to the Duncan Toor example: 
 
-<div align="middle"><img src="/assets/combine.gif" width="40%" align="middle"/></div>
+<div align="middle"><img src="/assets/duncantoor.gif" width="40%" align="middle"/></div>
