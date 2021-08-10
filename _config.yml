@@ -3,7 +3,7 @@ theme: plainwhite
 
 plainwhite:
   name: Paul Stocker
-  tagline: PhD Student
+  #tagline: 
   date_format: "%b %-d, %Y"
   sitemap: true
   portfolio_image:  "assets/portfolio.png" 
@@ -12,7 +12,7 @@ plainwhite:
   social_links:
     github:  PaulSt
     linkedIn: in/paul-stocker-63961a121/ # format: locale/username
-    email: paul.stocker@univie.ac.at
+    email: p.stocker@math.uni-goettingen.de
 
   navigation:
     - title: Home
@@ -27,6 +27,6 @@ plugins:
   - jekyll-seo-tag
 
 title: "Paul Stocker"
-description: "Paul Stocker, mathematics, math, Mathematik, Mathe, PhD Student, PhD, Vienna, univie, University of Vienna, Wien"
+description: "Paul Stocker, mathematician, Post-Doc Uni Göttingen, Mail: p.stocker@math.uni-goettingen.de"
 webmaster_verifications:
   google: "ByYdzwgMKaBTrHM7VNNajWnJg8yfcSU41D7OF6E_p1Q"
