@@ -1,6 +1,6 @@
 ---
 layout: home2
-<!--title: Paul Stocker-->
+title: Paul Stocker
 ---
 
 Short CV
