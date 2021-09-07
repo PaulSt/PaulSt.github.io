@@ -11,10 +11,21 @@ title: Paul Stocker
     working with [A. Moiola](http://matematica.unipv.it/moiola)
 
 ## Conferences and Workshops
+### 2021
+  * EFEF
+    10/09/21 → 11/09/21
+    Online 
+  * ICOSAHOM
+    12/07/21 → 16/07/21
+    Online 
+  * WCCM/ECCOMAS
+    11/01/21 → 15/01/21
+    Online
+
 ### 2020
-  * ECCOMAS
-    ~~20/07/20 → 24/07/20
-    Paris, FR~~ 11/01/21 → 15/01/20 Online
+  * ~~WCCM/ECCOMAS
+    20/07/20 → 24/07/20
+    Paris, FR~~ 
   * ~~CMAM
     13/07/20 → 17/07/20
     Vienna, AT~~
