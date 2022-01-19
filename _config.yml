@@ -1,5 +1,5 @@
 remote_theme: samarsault/plainwhite-jekyll
-theme: plainwhite
+#theme: plainwhite
 
 plainwhite:
   name: Paul Stocker
