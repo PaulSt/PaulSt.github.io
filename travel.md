@@ -2,6 +2,7 @@
 layout: page
 title: Paul Stocker
 ---
+
 ## Research stays
 * Kyoto University, Kyoto, Japan
     08/03/20 → 12/04/20, 
@@ -11,6 +12,21 @@ title: Paul Stocker
     working with [A. Moiola](http://matematica.unipv.it/moiola)
 
 ## Conferences and Workshops
+
+### 2022
+  * WCCM 
+    31/7/ → 5/8/2022
+    Japan (Online)
+  * Waves2022  
+    25/7/22 → 29/7/22
+    Paris
+  * ECCOMAS  
+    5/6/22 → 9/6/22
+    Oslo
+  * Wave Phenomena  
+    14/2/22 → 18/2/2022
+    Karlsruhe (Online)
+
 ### 2021
   * EFEF
     10/09/21 → 11/09/21
