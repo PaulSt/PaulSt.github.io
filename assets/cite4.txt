@@ -1,0 +1,9 @@
+@article{lehrenfeld2022embedded,
+      title={Embedded Trefftz discontinuous Galerkin methods}, 
+      author={Christoph Lehrenfeld and Paul Stocker},
+      year={2022},
+      eprint={2201.07041},
+      archivePrefix={arXiv},
+      primaryClass={math.NA}
+      journal={arXiv preprint, arXiv:2201.07041},
+}

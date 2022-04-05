@@ -1,0 +1,8 @@
+@misc{braukhoff2020entropy,
+      title={An entropy structure preserving space-time Galerkin method for cross-diffusion systems}, 
+      author={Marcel Braukhoff and Ilaria Perugia and Paul Stocker},
+      year={2020},
+      eprint={2006.13069},
+      archivePrefix={arXiv},
+      primaryClass={math.AP}
+}
