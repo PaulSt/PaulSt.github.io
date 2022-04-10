@@ -1,5 +1,5 @@
-remote_theme: PaulSt/eleven
-#theme: eleven-theme
+#remote_theme: PaulSt/eleven
+theme: eleven-theme
 
 eleven:
   name: Paul Stocker
