@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: block
 title: Paul Stocker
 ---
 
@@ -26,6 +26,7 @@ title: Paul Stocker
   * Wave Phenomena  
     14/2/22 → 18/2/2022
     Karlsruhe (Online)
+<!--more-->
 
 ### 2021
   * EFEF

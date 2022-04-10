@@ -4,10 +4,15 @@ title:  "Space-time Trefftz-DG on tent pitched meshes"
 categories: NGSolve
 ---
 
-Two examples of the current Trefftz-DG method using tent pitching. A wave hitting a corner, producing a singularity (left) and a wave in inhomogeneous material (right).
+Two examples of the current Trefftz-DG method using tent pitching. 
 
-<img src="/assets/sing.gif" width="40%" align="middle"/>
-<img src="/assets/material.gif" width="40%" align="middle"/>
+A wave hitting a corner, producing a singularity: 
+
+<img src="/assets/sing.gif" width="50%" align="middle"/>
+
+A wave in inhomogeneous material:
+
+<img src="/assets/material.gif" width="50%" align="middle"/>
 
 I am still a little torn about the current way of steering things from python, because it is quite rigid, but at least it is possible to start tent pitching using Trefftz-DG for the accoustic wave equation.
 

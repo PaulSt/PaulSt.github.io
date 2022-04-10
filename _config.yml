@@ -1,13 +1,10 @@
-remote_theme: samarsault/plainwhite-jekyll
-#theme: plainwhite
+remote_theme: PaulSt/eleven
+#theme: eleven-theme
 
-plainwhite:
+eleven:
   name: Paul Stocker
-  #tagline: 
-  date_format: "%b %-d, %Y"
-  sitemap: true
+  date_format: "%b %d, %Y"
   portfolio_image:  "assets/portfolio.png" 
-  dark_mode: true
 
   social_links:
     github:  PaulSt
@@ -20,13 +17,13 @@ plainwhite:
     - title: Travel
       url: "/travel"
 
-#permalink: /:year/:categories/:title:output_ext
 permalink: post/:title
-
-plugins:
-  - jekyll-seo-tag
 
 title: "Paul Stocker"
 description: "Paul Stocker, mathematician, Post-Doc Uni Göttingen, Mail: p.stocker@math.uni-goettingen.de"
 webmaster_verifications:
   google: "ByYdzwgMKaBTrHM7VNNajWnJg8yfcSU41D7OF6E_p1Q"
+
+
+excerpt_separator: <!--more-->
+page_excerpts: true
