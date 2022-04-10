@@ -4,18 +4,7 @@ remote_theme: PaulSt/eleven
 eleven:
   name: Paul Stocker
   date_format: "%b %d, %Y"
-  portfolio_image:  "assets/portfolio.png" 
-
-  social_links:
-    github:  PaulSt
-    linkedIn: in/paul-stocker-63961a121/ # format: locale/username
-    email: p.stocker@math.uni-goettingen.de
-
-  navigation:
-    - title: Home
-      url: "/index"
-    - title: Travel
-      url: "/travel"
+  logo:  "assets/logo.png" 
 
 permalink: post/:title
 
@@ -23,7 +12,6 @@ title: "Paul Stocker"
 description: "Paul Stocker, mathematician, Post-Doc Uni Göttingen, Mail: p.stocker@math.uni-goettingen.de"
 webmaster_verifications:
   google: "ByYdzwgMKaBTrHM7VNNajWnJg8yfcSU41D7OF6E_p1Q"
-
 
 excerpt_separator: <!--more-->
 page_excerpts: true
