@@ -1,9 +1,7 @@
 ---
 layout: block
-title: Paul Stocker
 ---
-
-## Research stays
+### Research stays
 * Kyoto University, Kyoto, Japan
     08/03/20 → 12/04/20, 
     working with [K. Svadlenka](https://www.math.kyoto-u.ac.jp/~karel) and [G. Favre](https://mat.univie.ac.at/~favre)
@@ -11,9 +9,9 @@ title: Paul Stocker
     01/10/19 → 29/02/20,
     working with [A. Moiola](http://matematica.unipv.it/moiola)
 
-## Conferences and Workshops
+### Conferences and Workshops
 
-### 2022
+#### 2022
   * WCCM 
     31/7/ → 5/8/2022
     Japan (Online)
@@ -28,7 +26,7 @@ title: Paul Stocker
     Karlsruhe (Online)
 <!--more-->
 
-### 2021
+#### 2021
   * EFEF
     10/09/21 → 11/09/21
     Online 
@@ -39,7 +37,7 @@ title: Paul Stocker
     11/01/21 → 15/01/21
     Online
 
-### 2020
+#### 2020
   * ~~WCCM/ECCOMAS
     20/07/20 → 24/07/20
     Paris, FR~~ 
@@ -59,7 +57,7 @@ title: Paul Stocker
     06/05/20 → 08/05/20
     Linz, AT~~
 
-### 2019
+#### 2019
   * Wave Phenomena: Analysis and Numerics:
     24/11/19 → 30/11/19
     Oberwolfach, DE
@@ -97,7 +95,7 @@ title: Paul Stocker
     19/01/19 → 18/01/19
     Reichenau an der Rax, AT
 
-### 2018
+#### 2018
   * 3rd VDS Summer School
     September 16-22, 2018
     Weissensee, AT
@@ -129,7 +127,7 @@ title: Paul Stocker
     18.01.2018 - 19.01.2018
     Reichenau an der Rax, AT
 
-### 2017
+#### 2017
   * DK Summer School 2017 
     17.09.2017 - 23.09.2017 
     Weissensee, AT

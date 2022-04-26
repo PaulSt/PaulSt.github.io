@@ -3,8 +3,6 @@ layout: block
 title: Publications
 ---
 
-Publications
-------------
   5. _NGSTrefftz: Add-on to NGSolve for Trefftz methods_  
   PS  
   [Journal of Open Source Software](https://doi.org/10.21105/joss.04135), 2022, [[pdf](https://doi.org/10.21105/joss.04135),[cite](./assets/cites/cite5.txt)]
