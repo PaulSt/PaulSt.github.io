@@ -3,38 +3,44 @@ layout: block
 ---
 ### Research stays
 * Kyoto University, Kyoto, Japan
-    08/03/20 → 12/04/20, 
+    08/03/20 → 12/04/20,  
     working with [K. Svadlenka](https://www.math.kyoto-u.ac.jp/~karel) and [G. Favre](https://mat.univie.ac.at/~favre)
 * University of Pavia, Pavia, Italy
-    01/10/19 → 29/02/20,
+    01/10/19 → 29/02/20,  
     working with [A. Moiola](http://matematica.unipv.it/moiola)
 
 ### Conferences and Workshops
 
 #### 2022
-  * WCCM 
-    31/7/ → 5/8/2022
+  * WCCM  
+    31/07 → 05/08
     Japan (Online)
   * Waves2022  
-    25/7/22 → 29/7/22
+    25/07 → 29/07
     Paris
+  * WIAS Workshop on Numerical Methods and Analysis in CFD  
+    05/07 → 08/07
+    Berlin
+  * NoKo 2022  
+    17/06 → 18/06
+    Hannover
   * ECCOMAS  
-    5/6/22 → 9/6/22
+    05/06 → 09/06
     Oslo
   * Wave Phenomena  
-    14/2/22 → 18/2/2022
+    14/02 → 18/02
     Karlsruhe (Online)
 <!--more-->
 
 #### 2021
-  * EFEF
-    10/09/21 → 11/09/21
+  * EFEF  
+    10/09 → 11/09
     Online 
-  * ICOSAHOM
-    12/07/21 → 16/07/21
+  * ICOSAHOM  
+    12/07 → 16/07
     Online 
-  * WCCM/ECCOMAS
-    11/01/21 → 15/01/21
+  * WCCM/ECCOMAS  
+    11/01 → 15/01
     Online
 
 #### 2020
@@ -58,82 +64,82 @@ layout: block
     Linz, AT~~
 
 #### 2019
-  * Wave Phenomena: Analysis and Numerics:
-    24/11/19 → 30/11/19
+  * Wave Phenomena: Analysis and Numerics:  
+    24/11 → 30/11
     Oberwolfach, DE
-  * 4th VDS Summer School
-    22/09/19 → 28/09/19, 
+  * 4th VDS Summer School  
+    22/09 → 28/09, 
     Weissensee, AT
-  * RMMM 2019:
-    9/09/19 → 13/09/19
+  * RMMM 2019:  
+    9/09 → 13/09
     Vienna, AT
-  * WAVES 2019:
-    26/08/19 → 30/08/19
+  * WAVES 2019:  
+    26/08 → 30/08
     Vienna, AT
-  * ICIAM 2019: 
-    15/07/19 → 19/07/19
+  * ICIAM 2019:   
+    15/07 → 19/07
     Valencia, ES 
-  * 3nd NGSolve User Meeting
-    01/07/19 → 03/07/19
+  * 3nd NGSolve User Meeting  
+    01/07 → 03/07
     Vienna, AT
-  * Mafelap 2019:
-    18/06/19 → 21/06/19
+  * Mafelap 2019:  
+    18/06 → 21/06
     London, UK
-  * The 17th European Finite Element Fair:
-    17/05/19 → 18/05/19
+  * The 17th European Finite Element Fair:  
+    17/05 → 18/05
     Nikosia, CY
-  * Austrian Numerical Analysis Day 2019:
-    9/05/19 → 10/05/19
+  * Austrian Numerical Analysis Day 2019:  
+    9/05 → 10/05
     Graz, AT
-  * 1st VDS Winter School on Quantum Computation
-    09/03/19 → 15/03/19
+  * 1st VDS Winter School on Quantum Computation  
+    09/03 → 15/03
     Dienten, AT
-  * GAMM 90th Annual Meeting
-    18/02/19 → 22/02/19
+  * GAMM 90th Annual Meeting  
+    18/02 → 22/02
     Vienna, AT
-  * DK Winter Workshop 2019
-    19/01/19 → 18/01/19
+  * DK Winter Workshop 2019  
+    19/01 → 18/01
     Reichenau an der Rax, AT
 
 #### 2018
-  * 3rd VDS Summer School
-    September 16-22, 2018
+  * 3rd VDS Summer School  
+    16/09 → 22/09
     Weissensee, AT
-  * 2nd NGSolve User Meeting
-    July 4-6 2018 
-    Göttingen, DE
-  * DK Summer School 2018 
-    02.07.2018 - 07.07.2018 
-    Weissensee, AT
-  * Summer School: Theory and Practice of the Virtual Element Methods
-    17/07/18 - 22/07/18
+  * Summer School: Theory and Practice of the Virtual Element Methods  
+    17/07 → 22/07
     Dobbiaco (Bolzano), IT
-  * 16th European Finite Element Fair 2018 
-    June 8 - 9, 2018
+  * 2nd NGSolve User Meeting  
+    04/07 → 06/07
+    Göttingen, DE
+  * DK Summer School 2018   
+    02/07 → 07/07
+    Weissensee, AT
+  * 16th European Finite Element Fair 2018   
+    08/06 → 09/06
     Heidelberg, DE
-  * 14th Austrian Numerical Analysis Day
-    May 3-4, 2018 
+  * 14th Austrian Numerical Analysis Day  
+    03/05 → 04/05
     Klagenfurt, AT
-  * Spring School: Fundamentals and practice of finite elements
-    16th to april 20th 2018
+  * Spring School: Fundamentals and practice of finite elements  
+    16/04 → 20/04
     Roscoff, FR
-  * VDS Retreat 
-    Sunday 4th - Wednesday 7th March, 2018
+  * VDS Retreat   
+    04/03 → 07/04
     Zwettl, AT
-  * VDS Excursion 
-    January 24th until January 26th, 2018
+  * VDS Excursion   
+    24/01 → 26/01
     Munich, DE
-  * DK Winter Workshop 2018 + SFB Internal Meeting
-    18.01.2018 - 19.01.2018
+  * DK Winter Workshop 2018 + SFB Internal Meeting  
+    18/01 → 19/01
     Reichenau an der Rax, AT
 
 #### 2017
-  * DK Summer School 2017 
+  * DK Summer School 2017  
     17.09.2017 - 23.09.2017 
     Weissensee, AT
-  * 2nd VDS Summer School
+  * 2nd VDS Summer School  
     September 2-8, 2017
     Obergurgl, AT
-  * 1st NGSolve User Meeting 
+  * 1st NGSolve User Meeting  
     13.06 - 16.06.2017 
     Vienna, AT
