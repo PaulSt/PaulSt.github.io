@@ -1,9 +1,0 @@
-@article{qtrefftz,
-      title={A space-time quasi-{T}refftz {DG} method for the wave equation with piecewise-smooth coefficients}, 
-      author={Lise-Marie Imbert-Gérard and Andrea Moiola and Paul Stocker},
-      year={2021},
-      eprint={2011.04617},
-      archivePrefix={arXiv},
-      primaryClass={math.NA},
-      journal={arXiv preprint, arXiv:2011.04617},
-}
