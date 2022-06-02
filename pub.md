@@ -5,7 +5,7 @@ title: Publications
 
   6. _Robust finite element discretizations for a simplified Galbrun's equation_  
 Tilman Alemán, Martin Halla, Christoph Lehrenfeld, PS
-[arXiv:2205.15650](https://arxiv.org/abs/2205.15650), 2022, [[pdf]( https://arxiv.org/pdf/2201.07041.pdf),[cite](./cite#item6)]
+[arXiv:2205.15650](https://arxiv.org/abs/2205.15650), 2022, [[pdf]( https://arxiv.org/pdf/2205.15650.pdf),[cite](./cite#item6)]
   5. _NGSTrefftz: Add-on to NGSolve for Trefftz methods_  
 PS  
 [Journal of Open Source Software](https://doi.org/10.21105/joss.04135), 2022, [[pdf](https://doi.org/10.21105/joss.04135),[cite](./cite#item5)]
