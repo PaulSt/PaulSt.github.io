@@ -4,7 +4,7 @@ theme: eleven-theme
 eleven:
   name: Paul Stocker
   date_format: "%b %d, %Y"
-  logo:  "assets/logo.png" 
+  #logo:  "assets/logo.png" 
 
 permalink: post/:title
 
