@@ -4,16 +4,22 @@ title: BibTeXs
 ---
 
 6.  ```
-@article{AHLS_ARXIV_2022,
-  doi = {10.48550/ARXIV.2205.15650},
-  url = {https://arxiv.org/abs/2205.15650},
-  journal = {arXiv preprint arxiv:2205.15650},
-  author = {Alemán, Tilman and Halla, Martin and Lehrenfeld, Christoph and Stocker, Paul},
-  keywords = {Numerical Analysis (math.NA), FOS: Mathematics, FOS: Mathematics},
-  title = {Robust finite element discretizations for a simplified Galbrun's equation},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@article{2209.01878,
+      title = {A new {T}-compatibility condition and its application to the discretization of the damped time-harmonic {G}albrun's equation},
+      author = {Halla, Martin and Lehrenfeld, Christoph and Stocker, Paul},
+      journal = {arXiv preprint arxiv:2209.01878},
+      year = {2022},
+      doi = {10.48550/ARXIV.2209.01878},
+}
+```
+
+6.  ```
+@article{2205.15650,
+      title = {Robust finite element discretizations for a simplified {G}albrun's equation},
+      author = {Alemán, Tilman and Halla, Martin and Lehrenfeld, Christoph and Stocker, Paul},
+      journal = {arXiv preprint arxiv:2205.15650},
+      year = {2022},
+      doi = {10.48550/ARXIV.2205.15650},
 }
 ```
 
@@ -34,14 +40,11 @@ title: BibTeXs
 ```
 
 4.  ```
-@article{LS_ARXIV_2022,
+@article{2201.07041,
       title={ {E}mbedded {T}refftz discontinuous {G}alerkin methods}, 
       author={Christoph Lehrenfeld and Paul Stocker},
-      year={2022},
-      eprint={2201.07041},
-      archivePrefix={arXiv},
-      primaryClass={math.NA},
       journal={arXiv preprint arXiv:2201.07041},
+      year={2022},
 }
 ```
 
@@ -49,11 +52,8 @@ title: BibTeXs
 @article{IGMS_ARXIV_2021,
       title={A space-time quasi-{T}refftz {DG} method for the wave equation with piecewise-smooth coefficients}, 
       author={Lise-Marie Imbert-Gérard and Andrea Moiola and Paul Stocker},
-      year={2021},
-      eprint={2011.04617},
-      archivePrefix={arXiv},
-      primaryClass={math.NA},
       journal={arXiv preprint arXiv:2011.04617},
+      year={2021},
 }
 ```
 

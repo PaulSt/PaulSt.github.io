@@ -3,8 +3,12 @@ layout: block
 title: Publications
 ---
 
+  7. _A new T-compatibility condition and its application to the discretization of the damped time-harmonic Galbrun's equation_  
+Martin Halla, Christoph Lehrenfeld, PS  
+[arXiv:2209.01878](https://arxiv.org/abs/2209.01878), 2022, [[pdf]( https://arxiv.org/pdf/2209.01878.pdf),[cite](./cite#item7)]
+
   6. _Robust finite element discretizations for a simplified Galbrun's equation_  
-Tilman Alemán, Martin Halla, Christoph Lehrenfeld, PS
+Tilman Alemán, Martin Halla, Christoph Lehrenfeld, PS  
 [arXiv:2205.15650](https://arxiv.org/abs/2205.15650), 2022, [[pdf]( https://arxiv.org/pdf/2205.15650.pdf),[cite](./cite#item6)]
   5. _NGSTrefftz: Add-on to NGSolve for Trefftz methods_  
 PS  

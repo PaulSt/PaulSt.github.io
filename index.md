@@ -5,6 +5,6 @@ title: Paul Stocker
 
 Paul Stocker
 ==============
-[github](https://github.com/PaulSt)
 [email](mailto:p.stocker@math.uni-goettingen.de)
+[github](https://github.com/PaulSt)
 [ngstrefftz](https://paulst.github.io/NGSTrefftz/)
