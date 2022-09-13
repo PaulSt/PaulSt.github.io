@@ -1,0 +1,82 @@
+## base directory (change if you want the everything in a different directory)
+PYTHONMODULE="python/3.9.0"
+PYTHONVER="3.9"
+
+## register local modules directory
+# echo "MODULEPATH=\"\$MODULEPATH:${BASEDIR}/modules\"" >> ~/.bashrc
+MODULEPATH=$MODULEPATH:${BASEDIR}/modules
+
+##load modules
+module load ${PYTHONMODULE}
+module load gcc/9.3.0
+module load intel-parallel-studio/cluster.2020.4
+module load cmake
+module load ngsolve/serial
+
+## generate basic directory structure
+BASEDIR=~
+cd $BASEDIR
+mkdir -p src build packages modules
+
+## fetch ngstrefftz sources
+{ # try
+    git clone https://github.com/PaulSt/ngstrefftz src/ngstrefftz
+} || { # catch
+    cd src/ngstrefftz && git pull && cd $BASEDIR
+}
+cd src/ngstrefftz && git submodule update --init --recursive && cd $BASEDIR
+
+##generate BUILDTYPE tag from type, date, branch and commit:
+TYPE=serial
+TAG=`cd ${BASEDIR}/src/ngstrefftz && git describe --tags`
+BRANCH=`cd ${BASEDIR}/src/ngstrefftz && git rev-parse --abbrev-ref HEAD`
+DATE=`date +%Y-%m-%d`
+BUILDTYPE=${DATE}-${TYPE}-${BRANCH}-${TAG}
+
+##generate build dir
+mkdir -p $BASEDIR/build/ngstrefftz
+cd $BASEDIR/build/ngstrefftz
+rm -rf ${BUILDTYPE}
+mkdir ${BUILDTYPE}
+cd ${BUILDTYPE}
+
+##configure the build
+CC=gcc CXX=g++ \
+cmake \
+-DCMAKE_BUILD_TYPE=RELEASE \
+-DCMAKE_CXX_FLAGS="-ffast-math" \
+-DCMAKE_INSTALL_PREFIX=${BASEDIR}/packages/ngstrefftz/${BUILDTYPE} \
+-DCMAKE_CXX_COMPILER=g++ \
+-DCMAKE_C_COMPILER=gcc \
+${BASEDIR}/src/ngstrefftz/src
+
+##build and install
+make -j18
+make install
+
+cd ..
+
+##register as new module:
+mkdir -p ${BASEDIR}/modules/ngstrefftz
+echo "#%Module1.0################################################# -*- tcl -*-
+#
+# GWDG Cluster gwdu10X
+
+proc ModulesHelp { } {
+  puts stderr "\tSets up environment for ngstrefftz"
+}
+
+module-whatis "ngstrefftz"
+
+prereq        gcc/9.3.0
+prereq        ${PYTHONMODULE}
+prereq        intel-parallel-studio/cluster.2020.4
+prereq        ngsolve/serial
+conflict      ngstrefftz
+
+set           base              ${BASEDIR}/packages/ngstrefftz/${BUILDTYPE}
+append-path   PYTHONPATH        \$base/lib/python${PYTHONVER}/site-packages
+" > ${BASEDIR}/modules/ngstrefftz/${BUILDTYPE}
+
+rm -f ${BASEDIR}/modules/ngstrefftz/${TYPE}
+ln -s ${BASEDIR}/modules/ngstrefftz/${BUILDTYPE} ${BASEDIR}/modules/ngstrefftz/${TYPE}
