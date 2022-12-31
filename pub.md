@@ -4,7 +4,7 @@ title: Publications
 order: 2
 ---
 
-  8. _Unfitted Trefftz discontinuous Galerkin methods for elliptic boundary value problems_
+  8. _Unfitted Trefftz discontinuous Galerkin methods for elliptic boundary value problems_  
 Fabian Heimann, Christoph Lehrenfeld, PS, Henry von Wahl  
 [arXiv:2212.12236](https://arxiv.org/abs/2212.12236), 2022, [[pdf](https://arxiv.org/pdf/2212.12236.pdf),[cite](./cite#item8)]  
   7. _A new T-compatibility condition and its application to the discretization of the damped time-harmonic Galbrun's equation_  
