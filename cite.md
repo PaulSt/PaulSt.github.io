@@ -3,7 +3,17 @@ layout: page
 title: BibTeXs
 ---
 
-6.  ```
+8.  ```
+@article{2212.12236,
+      title = {Unfitted {T}refftz discontinuous {G}alerkin methods for elliptic boundary value problems},
+      author = {Heimann, Fabian and  Lehrenfeld, Christoph and Stocker, Paul and von Wahl, Henry},
+      journal = {arXiv preprint arxiv:2212.12236},
+      year = {2022},
+      doi = {10.48550/ARXIV.2212.12236},
+}
+```
+
+7.  ```
 @article{2209.01878,
       title = {A new {T}-compatibility condition and its application to the discretization of the damped time-harmonic {G}albrun's equation},
       author = {Halla, Martin and Lehrenfeld, Christoph and Stocker, Paul},
@@ -14,12 +24,13 @@ title: BibTeXs
 ```
 
 6.  ```
-@article{2205.15650,
+@proceeding{2205.15650,
       title = {Robust finite element discretizations for a simplified {G}albrun's equation},
       author = {Alemán, Tilman and Halla, Martin and Lehrenfeld, Christoph and Stocker, Paul},
-      journal = {arXiv preprint arxiv:2205.15650},
+      publisher = {eccomas2022},
       year = {2022},
-      doi = {10.48550/ARXIV.2205.15650},
+      url = {https://www.scipedia.com/public/Aleman_et_al_2022a},
+      doi = {10.23967/eccomas.2022.206},
 }
 ```
 
@@ -49,11 +60,14 @@ title: BibTeXs
 ```
 
 3.  ```
-@article{IGMS_ARXIV_2021,
-      title={A space-time quasi-{T}refftz {DG} method for the wave equation with piecewise-smooth coefficients}, 
-      author={Lise-Marie Imbert-Gérard and Andrea Moiola and Paul Stocker},
-      journal={arXiv preprint arXiv:2011.04617},
-      year={2021},
+@article{IGMS_MC_2021,
+    title={A space-time quasi-{T}refftz {DG} method for the wave equation with piecewise-smooth coefficients}, 
+    author={Lise-Marie Imbert-Gérard and Andrea Moiola and Paul Stocker},
+    journal = {Math. Comput.},
+    fjournal = {Mathematics of Computation},
+    year = {2022},
+    doi = {10.1090/mcom/3786},
+    URL = {https://doi.org/10.1090/mcom/3786}
 }
 ```
 
