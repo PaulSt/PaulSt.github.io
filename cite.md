@@ -51,11 +51,17 @@ title: BibTeXs
 ```
 
 4.  ```
-@article{2201.07041,
-      title={ {E}mbedded {T}refftz discontinuous {G}alerkin methods}, 
-      author={Christoph Lehrenfeld and Paul Stocker},
-      journal={arXiv preprint arXiv:2201.07041},
-      year={2022},
+@article{LS_IJMNE_2023,
+  author = {Lehrenfeld, Christoph and Stocker, Paul},
+  title = {Embedded Trefftz discontinuous Galerkin methods},
+  journal = {International Journal for Numerical Methods in Engineering},
+  volume = {n/a},
+  number = {n/a},
+  pages = {},
+  keywords = {discontinuous Galerkin method, embedded Trefftz, Trefftz finite elements},
+  doi = {https://doi.org/10.1002/nme.7258},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7258},
+  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/nme.7258},
 }
 ```
 

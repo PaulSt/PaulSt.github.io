@@ -1,6 +1,6 @@
 ---
 layout: block
-order: 3
+order: 4
 ---
 # Research stays
 * Kyoto University, Kyoto, Japan
