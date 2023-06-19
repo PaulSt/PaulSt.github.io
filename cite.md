@@ -3,6 +3,17 @@ layout: page
 title: BibTeXs
 ---
 
+
+9.  ```
+@article{2306.09571,
+      title={On polynomial Trefftz spaces for the linear time-dependent Schr\"odinger equation}, 
+      author={Sergio Gómez and Andrea Moiola and Ilaria Perugia and Paul Stocker},
+      journal = {arXiv preprint arxiv:2306.09571},
+      year={2023},
+      doi = {10.48550/arXiv.2306.09571},
+}
+```
+
 8.  ```
 @article{2212.12236,
       title = {Unfitted {T}refftz discontinuous {G}alerkin methods for elliptic boundary value problems},

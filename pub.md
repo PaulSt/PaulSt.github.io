@@ -4,6 +4,9 @@ title: Publications
 order: 2
 ---
 
+  9. _On polynomial Trefftz spaces for the linear time-dependent Schrödinger equation_  
+Sergio Gómez, Andrea Moiola, Ilaria Perugia, PS  
+[arXiv:2306.09571](https://arxiv.org/abs/2306.09571), 2023  [[pdf](https://arxiv.org/pdf/2306.09571.pdf),[cite](./cite#item8)]  
   8. _Unfitted Trefftz discontinuous Galerkin methods for elliptic boundary value problems_  
 Fabian Heimann, Christoph Lehrenfeld, PS, Henry von Wahl  
 [arXiv:2212.12236](https://arxiv.org/abs/2212.12236), 2022  [[pdf](https://arxiv.org/pdf/2212.12236.pdf),[cite](./cite#item8)]  
