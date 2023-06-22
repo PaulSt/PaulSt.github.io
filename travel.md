@@ -2,7 +2,11 @@
 layout: block
 order: 4
 ---
+
 # Research stays
+* Research in Pairs, Trento, Italy  
+    25/06/23 → 01/07/23,  
+    working with [A. Moiola](http://matematica.unipv.it/moiola) and [L.-M. Imbert-Gérard](https://www.math.arizona.edu/~lmig/)
 * Kyoto University, Kyoto, Japan
     08/03/20 → 12/04/20,  
     working with [K. Svadlenka](https://www.math.kyoto-u.ac.jp/~karel) and [G. Favre](https://mat.univie.ac.at/~favre)
@@ -11,6 +15,19 @@ order: 4
     working with [A. Moiola](http://matematica.unipv.it/moiola)
 
 # Conferences and Workshops
+### 2023
+  * ICOSAHOM  
+    14/08 → 18/08   
+    Seoul, KOR     
+  * PoWER2023: Propagation of Waves, European Researchers
+    26/07 → 28/07 
+    Turin, IT    
+  * 4th NGSolve User Meeting 2023, 
+    09/07 → 11/07 
+    Portland, USA  
+  * EFEF  
+    12/05 → 13/05
+    Twente, NL
 ### 2022
   * SFB 1456 Workshop   
     31/08 → 01/09 
