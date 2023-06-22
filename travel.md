@@ -17,40 +17,41 @@ order: 4
 # Conferences and Workshops
 ### 2023
   * ICOSAHOM  
-    14/08 → 18/08   
+    14/08 → 18/08
     Seoul, KOR     
-  * PoWER2023: Propagation of Waves, European Researchers
-    26/07 → 28/07 
+  * PoWER2023: Propagation of Waves, European Researchers  
+    26/07 → 28/07
     Turin, IT    
-  * 4th NGSolve User Meeting 2023, 
-    09/07 → 11/07 
-    Portland, USA  
+  * 4th NGSolve User Meeting 2023,  
+    09/07 → 11/07
+    Portland, USA
   * EFEF  
     12/05 → 13/05
     Twente, NL
+<!--more-->
+
 ### 2022
   * SFB 1456 Workshop   
     31/08 → 01/09 
-    Goslar  
+    Goslar, DE 
   * WCCM  
     31/07 → 05/08
-    Japan (Online)
+    Yokohama, JP (Online)
   * Waves2022  
     25/07 → 29/07
-    Paris
+    Paris, FR
   * WIAS Workshop on Numerical Methods and Analysis in CFD  
     05/07 → 08/07
-    Berlin
+    Berlin, DE
   * NoKo 2022  
     17/06 → 18/06
-    Hannover
+    Hannover, DE
   * ECCOMAS  
     05/06 → 09/06
-    Oslo
+    Oslo, NO
   * Wave Phenomena  
     14/02 → 18/02
-    Karlsruhe (Online)
-<!--more-->
+    Karlsruhe, DE (Online)
 
 ### 2021
   * SFB 1456 Workshop   
