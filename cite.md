@@ -3,6 +3,15 @@ layout: page
 title: BibTeXs
 ---
 
+9.  ```
+@article{2306.14600,
+      title={Trefftz Discontinuous {Galerkin} discretization for the {Stokes} problem},
+      author={Philip L. Lederer and Christoph Lehrenfeld and Paul Stocker},
+      journal = {arXiv preprint arxiv:2306.14600},
+      year={2023},
+      doi = {10.48550/arXiv.2306.14600},
+}
+```
 
 9.  ```
 @article{2306.09571,
