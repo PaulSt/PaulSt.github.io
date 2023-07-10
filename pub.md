@@ -21,7 +21,7 @@ Tilman Alemán, Martin Halla, Christoph Lehrenfeld, PS
 [eccomas2022](https://www.scipedia.com/public/Aleman_et_al_2022a), 2022  [[pdf]( https://arxiv.org/pdf/2205.15650.pdf),[cite](./cite#item6)]
   5. _NGSTrefftz: Add-on to NGSolve for Trefftz methods_  
 PS  
-[J. Open Source Soft.](https://doi.org/10.21105/joss.04135), 2022  [[pdf](https://doi.org/10.21105/joss.04135),[cite](./cite#item5)]
+[J. Open Source Soft.](https://doi.org/10.21105/joss.04135), 2022  [[pdf](https://doi.org/10.21105/joss.04135),[cite](./cite#item5),[slides](./assets/slides/ngstrefftz.pdf)]
   4. _Embedded Trefftz discontinuous Galerkin methods_   
 Christoph Lehrenfeld, PS   
 [Int. J. Numer. Methods Eng.](https://doi.org/10.1002/nme.7258), 2022  [[pdf]( https://arxiv.org/pdf/2201.07041.pdf),[cite](./cite#item4),[slides](./assets/slides/embtrefftz.pdf)]  
