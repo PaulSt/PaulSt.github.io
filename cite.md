@@ -3,7 +3,7 @@ layout: page
 title: BibTeXs
 ---
 
-9.  ```
+10.  ```
 @article{2306.14600,
       title={Trefftz Discontinuous {Galerkin} discretization for the {Stokes} problem},
       author={Philip L. Lederer and Christoph Lehrenfeld and Paul Stocker},
@@ -72,17 +72,17 @@ title: BibTeXs
 
 4.  ```
 @article{LS_IJMNE_2023,
-  author = {Lehrenfeld, Christoph and Stocker, Paul},
-  title = {Embedded Trefftz discontinuous Galerkin methods},
-  journal = {International Journal for Numerical Methods in Engineering},
-  volume = {n/a},
-  number = {n/a},
-  pages = {},
-  keywords = {discontinuous Galerkin method, embedded Trefftz, Trefftz finite elements},
-  doi = {https://doi.org/10.1002/nme.7258},
-  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7258},
-  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/nme.7258},
-}
+    author = {Lehrenfeld, Christoph and Stocker, Paul},
+    title = {Embedded {Trefftz} discontinuous {Galerkin} methods},
+    fjournal = {International Journal for Numerical Methods in Engineering},
+    journal = {Int. J. Numer. Methods Eng.},
+    volume = {124},
+    number = {17},
+    pages = {3637-3661},
+    keywords = {discontinuous Galerkin method, embedded Trefftz, Trefftz finite elements},
+    doi = {10.1002/nme.7258},
+    year = {2023}
+} 
 ```
 
 3.  ```
