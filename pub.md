@@ -9,10 +9,10 @@ Philip L. Lederer, Christoph Lehrenfeld, PS
 [arXiv:2306.14600](https://arxiv.org/abs/2306.14600), 2023  [[pdf](https://arxiv.org/pdf/2306.14600.pdf),[cite](./cite#item10)]  
   9. _On polynomial Trefftz spaces for the linear time-dependent Schrödinger equation_  
 Sergio Gómez, Andrea Moiola, Ilaria Perugia, PS  
-[arXiv:2306.09571](https://arxiv.org/abs/2306.09571), 2023  [[pdf](https://arxiv.org/pdf/2306.09571.pdf),[cite](./cite#item9)]  
+[Appl. Math. Lett.](https://doi.org/10.1016/j.aml.2023.108824), 2023  [[pdf](https://arxiv.org/pdf/2306.09571.pdf),[cite](./cite#item9)]  
   8. _Unfitted Trefftz discontinuous Galerkin methods for elliptic boundary value problems_  
 Fabian Heimann, Christoph Lehrenfeld, PS, Henry von Wahl  
-[arXiv:2212.12236](https://arxiv.org/abs/2212.12236), 2022  [[pdf](https://arxiv.org/pdf/2212.12236.pdf),[cite](./cite#item8)]  
+[ESAIM: M2AN](https://doi.org/10.1051/m2an/2023064), 2022  [[pdf](https://arxiv.org/pdf/2212.12236.pdf),[cite](./cite#item8)]  
   7. _A new T-compatibility condition and its application to the discretization of the damped time-harmonic Galbrun's equation_  
 Martin Halla, Christoph Lehrenfeld, PS  
 [arXiv:2209.01878](https://arxiv.org/abs/2209.01878), 2022  [[pdf]( https://arxiv.org/pdf/2209.01878.pdf),[cite](./cite#item7),[slides](./assets/slides/galbrun.pdf)]
