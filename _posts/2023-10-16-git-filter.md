@@ -24,3 +24,25 @@ In my case, I really wanted to unify the formatting of all my c++ files.
 lint-history --relevant 'return (filename.endswith(b".cpp") or filename.endswith(b".hpp"))' clang-format -style=file:.clang-format -i
 ```
 with a .clang-format file in the root of the git repo worked like a charm (or maybe more like a hex..)
+
+
+To change things from a few commits ago,
+
+```
+git rebase --interactive <commit ID>~
+```
+
+Please note the tilde ~ at the end of the command. In the editor change `pick` to `edit` from the commit in question.
+Close the file, make the changes and then commit using
+
+```
+git commit --all --amend --no-edit
+```
+
+After that, return back to the previous HEAD commit using:
+
+```
+git rebase --continue
+```
+
+This will change the SHA-1 of that commit as well as all children, so again: it break everything!
