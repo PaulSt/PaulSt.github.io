@@ -4,12 +4,12 @@ title: BibTeXs
 ---
 
 10.  ```
-@article{2306.14600,
+@article{LLS_NM_2024,
     title={Trefftz Discontinuous {Galerkin} discretization for the {Stokes} problem},
     author={Philip L. Lederer and Christoph Lehrenfeld and Paul Stocker},
-    journal = {arXiv preprint arxiv:2306.14600},
-    year={2023},
-    doi = {10.48550/arXiv.2306.14600},
+    journal = {Numerische Mathematik},
+    year={2024},
+    doi = {10.1007/s00211-024-01404-z},
 }
 ```
 

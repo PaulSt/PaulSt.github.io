@@ -3,7 +3,10 @@ layout: block
 order: 4
 ---
 
-# Research stays
+# Research visits
+* University of Pavia, Pavia, Italy
+    18/03/24 → 22/03/24,  
+    working with [A. Moiola](http://matematica.unipv.it/moiola), [S. Gómez](https://www.unimib.it/sergio-alejandro-gomez-macias), and [C. Perinati](https://matematica.unipv.it/elenco/chiara-perinati/)
 * Research in Pairs, Trento, Italy  
     25/06/23 → 01/07/23,  
     working with [A. Moiola](http://matematica.unipv.it/moiola) and [L.-M. Imbert-Gérard](https://www.math.arizona.edu/~lmig/)
@@ -15,6 +18,19 @@ order: 4
     working with [A. Moiola](http://matematica.unipv.it/moiola)
 
 # Conferences and Workshops
+### 2024  
+  * Waves   
+    30/06 → 05/07
+    Berlin, DE   
+  * 5th NGSolve User Meeting,   
+    17/06 → 19/06
+    Vienna, Aut   
+  * Banff CMO: Contemporary Challenges in Trefftz Methods   
+    12/05 → 17/05
+    Oaxaca, MX  
+
+<!--more-->
+
 ### 2023
   * ICOSAHOM  
     14/08 → 18/08
@@ -28,7 +44,6 @@ order: 4
   * EFEF  
     12/05 → 13/05
     Twente, NL
-<!--more-->
 
 ### 2022
   * SFB 1456 Workshop   

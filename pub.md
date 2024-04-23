@@ -6,7 +6,7 @@ order: 2
 
   10. _Trefftz Discontinuous Galerkin discretization for the Stokes problem_  
 Philip L. Lederer, Christoph Lehrenfeld, PS  
-[arXiv:2306.14600](https://arxiv.org/abs/2306.14600), 2023  [[pdf](https://arxiv.org/pdf/2306.14600.pdf),[cite](./cite#item10)]  
+[Numer. Math.](https://doi.org/10.1007/s00211-024-01404-z), 2023  [[pdf](https://arxiv.org/pdf/2306.14600.pdf),[cite](./cite#item10)]  
   9. _On polynomial Trefftz spaces for the linear time-dependent Schrödinger equation_  
 Sergio Gómez, Andrea Moiola, Ilaria Perugia, PS  
 [Appl. Math. Lett.](https://doi.org/10.1016/j.aml.2023.108824), 2023  [[pdf](https://arxiv.org/pdf/2306.09571.pdf),[cite](./cite#item9)]  
@@ -42,7 +42,7 @@ See also
 and
 [orcid](https://orcid.org/0000-0001-5073-3366).
 
-Thesis
+Theses
 ------------
   * _Space-time finite element methods_  
 PS,  PhD Thesis, 2021 [[pdf](https://utheses.univie.ac.at/detail/59809/)] 
