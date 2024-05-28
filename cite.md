@@ -3,6 +3,17 @@ layout: page
 title: BibTeXs
 ---
 
+
+11.  ```
+@article{2405.16864,
+    title={Sparsity comparison of polytopal finite element methods}, 
+    author={Christoph Lehrenfeld and Paul Stocker and Maximilian Zienecker},
+    journal = {arXiv preprint arxiv:2405.16864},
+    year = {2024},
+    doi = {10.48550/arXiv.2405.16864},
+}
+```
+
 10.  ```
 @article{LLS_NM_2024,
     title={Trefftz Discontinuous {Galerkin} discretization for the {Stokes} problem},
