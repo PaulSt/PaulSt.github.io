@@ -4,6 +4,9 @@ title: Publications
 order: 2
 ---
 
+  12. _Polynomial quasi-Trefftz DG for PDEs with smooth coefficients: elliptic problems_  
+Lise-Marie Imbert-Gérard, Andrea Moiola, Chiara Perinati, PS  
+[arXiv:2408.00932](https://arxiv.org/abs/2408.00392), 2024  [[pdf](https://arxiv.org/pdf/2408.00392.pdf),[cite](./cite#item12)]  
   11. _Sparsity comparison of polytopal finite element methods_  
 Christoph Lehrenfeld, PS, Maximilian Zienecker  
 [arXiv:2405.16864](https://arxiv.org/abs/2405.16864), 2024  [[pdf](https://arxiv.org/pdf/2405.16864.pdf),[cite](./cite#item11)]    

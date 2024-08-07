@@ -3,6 +3,15 @@ layout: page
 title: BibTeXs
 ---
 
+11.  ```
+@article{2408.00392,
+    title={Polynomial quasi-Trefftz DG for PDEs with smooth coefficients: elliptic problems},
+    author={Lise-Marie Imbert-Gérard and Andrea Moiola and Chiara Perinati and Paul Stocker},
+    journal = {arXiv preprint arxiv:2408.00392},
+    year = {2024},
+    doi = {10.48550/arXiv.2408.00392},
+}
+```
 
 11.  ```
 @article{2405.16864,
