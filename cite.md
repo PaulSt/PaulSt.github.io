@@ -3,7 +3,7 @@ layout: page
 title: BibTeXs
 ---
 
-11.  ```
+12.  ```
 @article{2408.00392,
     title={Polynomial quasi-Trefftz DG for PDEs with smooth coefficients: elliptic problems},
     author={Lise-Marie Imbert-Gérard and Andrea Moiola and Chiara Perinati and Paul Stocker},
@@ -14,12 +14,17 @@ title: BibTeXs
 ```
 
 11.  ```
-@article{2405.16864,
-    title={Sparsity comparison of polytopal finite element methods}, 
-    author={Christoph Lehrenfeld and Paul Stocker and Maximilian Zienecker},
-    journal = {arXiv preprint arxiv:2405.16864},
-    year = {2024},
-    doi = {10.48550/arXiv.2405.16864},
+@article{LSZ_PAMM_2024,
+    author = {Lehrenfeld, Christoph and Stocker, Paul and Zienecker, Maximilian},
+    title = {Sparsity comparison of polytopal finite element methods},
+    journal = {PAMM},
+    volume = {24},
+    number = {3},
+    pages = {e202400150},
+    doi = {https://doi.org/10.1002/pamm.202400150},
+    url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/pamm.202400150},
+    eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/pamm.202400150},
+    year = {2024}
 }
 ```
 
