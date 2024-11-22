@@ -9,7 +9,7 @@ Lise-Marie Imbert-Gérard, Andrea Moiola, Chiara Perinati, PS
 [arXiv:2408.00932](https://arxiv.org/abs/2408.00392), 2024  [[pdf](https://arxiv.org/pdf/2408.00392.pdf),[cite](./cite#item12)]  
   11. _Sparsity comparison of polytopal finite element methods_  
 Christoph Lehrenfeld, PS, Maximilian Zienecker  
-[PAMM](https://doi.org/10.1002/pamm.202400150), 2024  [[pdf](https://arxiv.org/pdf/2405.16864.pdf),[cite](./cite#item11)]    
+[Proceedings Appl. Math. Mech.](https://doi.org/10.1002/pamm.202400150), 2024  [[pdf](https://arxiv.org/pdf/2405.16864.pdf),[cite](./cite#item11)]    
   10. _Trefftz Discontinuous Galerkin discretization for the Stokes problem_  
 Philip L. Lederer, Christoph Lehrenfeld, PS  
 [Numer. Math.](https://doi.org/10.1007/s00211-024-01404-z), 2023  [[pdf](https://arxiv.org/pdf/2306.14600.pdf),[cite](./cite#item10)]  

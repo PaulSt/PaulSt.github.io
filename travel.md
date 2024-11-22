@@ -137,3 +137,21 @@ order: 4
     02/09 → 08/09, Obergurgl, AT
   * 1st NGSolve User Meeting   
     13/06 → 16/06, Vienna, AT
+
+
+
+# Gallery
+# ![Trefftz Methods 2024](/assets/gallery/trefftz24.jpg) *Contemporary Challenges in Trefftz Methods*
+# ![Chemnitz FEM 2024](/assets/gallery/cfem24.jpg) *Chemnitz Finite Element Symposium 2024*
+# ![NGSolve Usermeeting 2024](/assets/gallery/ngs24.jpeg) *5th NGSolve User Meeting 2024*
+# ![ICOSAHOM 2023](/assets/gallery/icosahom23.jpg) *ICOSAHOM 2023*
+# ![NGSolve Usermeeting 2023](/assets/gallery/ngs23.jpeg) *4th NGSolve User Meeting 2023*
+# ![waves22](/assets/gallery/waves22.jpg) *WAVES 2022*
+# ![Kyoto 2020](/assets/gallery/japan20.jpg) *Visit Kyoto University 2020*
+# ![VSM 19](/assets/gallery/vsm19.jpg) *Vienna Summer of Mathematics 2019*
+# ![Oberwolfach 2019](/assets/gallery/oberwolfach19.jpg) *Wave Phenomena: Analysis and Numerics 2019*
+# ![waves19](/assets/gallery/waves19.jpg) *WAVES 2019*
+# ![MAFELAP 2019](/assets/gallery/mafelap19.jpg) *MAFELAP 2019*
+# ![VEM Summerschool](/assets/gallery/vem18.jpg) *Summer School: VEM 2018*
+# ![NGSolve Usermeeting 2018](/assets/gallery/ngs18.jpg) *2nd NGSolve User Meeting 2018*
+# ![NGSolve Usermeeting 2017](/assets/gallery/ngs17.jpg) *1st NGSolve User Meeting 2017*
