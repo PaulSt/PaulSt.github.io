@@ -4,6 +4,9 @@ title: Publications
 order: 2
 ---
 
+  13. _Inf-sup stable space-time Local Discontinuous Galerkin method for the heat equation_  
+  Sergio Gómez, Chiara Perinati, PS  
+[arXiv:2411.14819](https://arxiv.org/abs/2411.14819), 2024  [[pdf](https://arxiv.org/pdf/2411.14819.pdf),[cite](./cite#item13)]  
   12. _Polynomial quasi-Trefftz DG for PDEs with smooth coefficients: elliptic problems_  
 Lise-Marie Imbert-Gérard, Andrea Moiola, Chiara Perinati, PS  
 [arXiv:2408.00932](https://arxiv.org/abs/2408.00392), 2024  [[pdf](https://arxiv.org/pdf/2408.00392.pdf),[cite](./cite#item12)]  

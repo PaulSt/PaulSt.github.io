@@ -3,8 +3,19 @@ layout: page
 title: BibTeXs
 ---
 
+13. ```
+@article{GPS_ARXIV_2024,
+    title={Inf-sup stable space-time Local Discontinuous Galerkin method for the heat equation}, 
+    author={Sergio Gómez and Chiara Perinati and Paul Stocker},
+    year = {2024},
+    journal = {arXiv preprint arxiv:2411.14819},
+    doi = {10.48550/arXiv.2411.14819},
+}
+```
+
+
 12.  ```
-@article{2408.00392,
+@article{IMPS_ARXIV_2024,
     title={Polynomial quasi-Trefftz DG for PDEs with smooth coefficients: elliptic problems},
     author={Lise-Marie Imbert-Gérard and Andrea Moiola and Chiara Perinati and Paul Stocker},
     journal = {arXiv preprint arxiv:2408.00392},
@@ -63,7 +74,7 @@ title: BibTeXs
 ```
 
 7.  ```
-@article{2209.01878,
+@article{HLG_ARXIV_2022,
     title = {A new {T}-compatibility condition and its application to the discretization of the damped time-harmonic {G}albrun's equation},
     author = {Halla, Martin and Lehrenfeld, Christoph and Stocker, Paul},
     journal = {arXiv preprint arxiv:2209.01878},
@@ -73,7 +84,7 @@ title: BibTeXs
 ```
 
 6.  ```
-@proceeding{2205.15650,
+@proceeding{AHLS_ECCOMAS_2022,
     title = {Robust finite element discretizations for a simplified {G}albrun's equation},
     author = {Alemán, Tilman and Halla, Martin and Lehrenfeld, Christoph and Stocker, Paul},
     publisher = {eccomas2022},
