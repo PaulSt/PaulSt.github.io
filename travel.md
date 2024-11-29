@@ -149,6 +149,7 @@ order: 4
 # ![waves22](/assets/gallery/waves22.jpg) *WAVES 2022*
 # ![Kyoto 2020](/assets/gallery/japan20.jpg) *Visit Kyoto University 2020*
 # ![VSM 19](/assets/gallery/vsm19.jpg) *Vienna Summer of Mathematics 2019*
+# ![Oberwolfach 2019](/assets/gallery/oberwolfach19_2.jpg) *Oberwolfach*
 # ![Oberwolfach 2019](/assets/gallery/oberwolfach19.jpg) *Wave Phenomena: Analysis and Numerics 2019*
 # ![waves19](/assets/gallery/waves19.jpg) *WAVES 2019*
 # ![MAFELAP 2019](/assets/gallery/mafelap19.jpg) *MAFELAP 2019*
