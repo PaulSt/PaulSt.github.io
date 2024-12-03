@@ -4,6 +4,9 @@ title: Publications
 order: 2
 ---
 
+  14. _A unified framework for Trefftz-like discretization methods_  
+  Philip L. Lederer, Christoph Lehrenfeld, PS, Igor Voulis  
+[arXiv:2412.00806](https://arxiv.org/abs/2412.00806), 2024  [[pdf](https://arxiv.org/pdf/2412.00806.pdf),[cite](./cite#item14)]  
   13. _Inf-sup stable space-time Local Discontinuous Galerkin method for the heat equation_  
   Sergio Gómez, Chiara Perinati, PS  
 [arXiv:2411.14819](https://arxiv.org/abs/2411.14819), 2024  [[pdf](https://arxiv.org/pdf/2411.14819.pdf),[cite](./cite#item13)]  
