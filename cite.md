@@ -4,8 +4,18 @@ title: BibTeXs
 ---
 
 13. ```
+@article{LLSV_ARXIV_2024,
+    title={A unified framework for {T}refftz-like discretization methods}, 
+    author={Philip L. Lederer and Christoph Lehrenfeld and Paul Stocker and Igor Voulis},
+    year={2024},
+    journal = {arXiv preprint arxiv:2412.00806},
+    doi = {10.48550/arXiv.2412.00806},
+}
+```
+
+13. ```
 @article{GPS_ARXIV_2024,
-    title={Inf-sup stable space-time Local Discontinuous Galerkin method for the heat equation}, 
+    title={Inf-sup stable space-time {L}ocal {D}iscontinuous {G}alerkin method for the heat equation}, 
     author={Sergio Gómez and Chiara Perinati and Paul Stocker},
     year = {2024},
     journal = {arXiv preprint arxiv:2411.14819},
@@ -13,10 +23,9 @@ title: BibTeXs
 }
 ```
 
-
 12.  ```
 @article{IMPS_ARXIV_2024,
-    title={Polynomial quasi-Trefftz DG for PDEs with smooth coefficients: elliptic problems},
+    title={Polynomial quasi-{T}refftz {DG} for {PDE}s with smooth coefficients: elliptic problems},
     author={Lise-Marie Imbert-Gérard and Andrea Moiola and Chiara Perinati and Paul Stocker},
     journal = {arXiv preprint arxiv:2408.00392},
     year = {2024},
@@ -26,8 +35,8 @@ title: BibTeXs
 
 11.  ```
 @article{LSZ_PAMM_2024,
-    author = {Lehrenfeld, Christoph and Stocker, Paul and Zienecker, Maximilian},
     title = {Sparsity comparison of polytopal finite element methods},
+    author = {Lehrenfeld, Christoph and Stocker, Paul and Zienecker, Maximilian},
     journal = {PAMM},
     volume = {24},
     number = {3},
@@ -51,7 +60,7 @@ title: BibTeXs
 
 9.  ```
 @article{GMPS_AML_2023,
-    title = {On polynomial Trefftz spaces for the linear time-dependent Schrödinger equation},
+    title = {{On polynomial Trefftz spaces for the linear time-dependent Schrödinger equation}},
     journal = {Applied Mathematics Letters},
     volume = {146},
     pages = {108824},
