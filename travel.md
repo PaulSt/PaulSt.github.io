@@ -4,6 +4,10 @@ order: 4
 ---
 
 # Research visits
+* University of Göttingen, Germany, 31/03/25 → 04/04/25,  
+    working with [C. Lehrenfeld](https://cpde.math.uni-goettingen.de/en/members/CLehrenfeld/index.html) and [I. Voulis]()
+* University of Arizona, USA, 24/02/25 → 28/02/25,  
+    working with [L.-M. Imbert-Gérard](https://www.math.arizona.edu/~lmig/)
 * University of Göttingen, Germany, 18/08/24 → 24/08/24,  
     working with [C. Lehrenfeld](https://cpde.math.uni-goettingen.de/en/members/CLehrenfeld/index.html) and [I. Voulis]()
 * University of Pavia, Italy, 18/03/24 → 22/03/24,  
@@ -16,6 +20,19 @@ order: 4
     working with [A. Moiola](http://matematica.unipv.it/moiola)
 
 # Conferences and Workshops
+### 2025  
+  * 8th ECCOMAS Young Investigators Conference and PhD Olympiad 2025  
+    17/09 → 19/09, Pescara, IT
+  * ENUMATH 2025  
+    01/09 → 05/09, Heidelberg, DE
+  * 6th NGSolve User Meeting
+  * Austrian Numerical Analysis Day 2015  
+    08/05 → 09/05, Salzburg, AT
+  * SIAM Conference on Computational Science and Engineering (CSE25)  
+    03/03 → 07/03, Fort Worth, Texas, USA
+
+<!--more-->
+
 ### 2024  
   * Workshop: High-dimensional methods in stochastic and multiscale PDEs  
     30/09 → 02/10, Vienna, AT
@@ -27,8 +44,6 @@ order: 4
     17/06 → 19/06, Vienna, Aut   
   * Banff CMO: Contemporary Challenges in Trefftz Methods   
     12/05 → 17/05, Oaxaca, MX  
-
-<!--more-->
 
 ### 2023
   * ICOSAHOM  
