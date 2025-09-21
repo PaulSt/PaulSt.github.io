@@ -24,12 +24,17 @@ title: BibTeXs
 ```
 
 12.  ```
-@article{IMPS_ARXIV_2024,
-    title={Polynomial quasi-{T}refftz {DG} for {PDE}s with smooth coefficients: elliptic problems},
-    author={Lise-Marie Imbert-Gérard and Andrea Moiola and Chiara Perinati and Paul Stocker},
-    journal = {arXiv preprint arxiv:2408.00392},
-    year = {2024},
-    doi = {10.48550/arXiv.2408.00392},
+@article{10.1093/imanum/drae094,
+    author = {Imbert-Gérard, Lise-Marie and Moiola, Andrea and Perinati, Chiara and Stocker, Paul},
+    title = {Polynomial quasi-Trefftz DG for PDEs with smooth coefficients: elliptic problems},
+    journal = {IMA Journal of Numerical Analysis},
+    pages = {drae094},
+    year = {2025},
+    month = {01},
+    issn = {0272-4979},
+    doi = {10.1093/imanum/drae094},
+    url = {https://doi.org/10.1093/imanum/drae094},
+    eprint = {https://academic.oup.com/imajna/advance-article-pdf/doi/10.1093/imanum/drae094/61503428/drae094.pdf},
 }
 ```
 
@@ -60,7 +65,7 @@ title: BibTeXs
 
 9.  ```
 @article{GMPS_AML_2023,
-    title = {{On polynomial Trefftz spaces for the linear time-dependent Schrödinger equation}},
+    title = {On polynomial {T}refftz spaces for the linear time-dependent {S}chrödinger equation},
     journal = {Applied Mathematics Letters},
     volume = {146},
     pages = {108824},
@@ -83,12 +88,17 @@ title: BibTeXs
 ```
 
 7.  ```
-@article{HLG_ARXIV_2022,
-    title = {A new {T}-compatibility condition and its application to the discretization of the damped time-harmonic {G}albrun's equation},
+@article{10.1093/imanum/draf071,
     author = {Halla, Martin and Lehrenfeld, Christoph and Stocker, Paul},
-    journal = {arXiv preprint arxiv:2209.01878},
-    year = {2022},
-    doi = {10.48550/ARXIV.2209.01878},
+    title = {A new T-compatibility condition and its application to the discretization of the damped time-harmonic Galbrun’s equation},
+    journal = {IMA Journal of Numerical Analysis},
+    pages = {draf071},
+    year = {2025},
+    month = {08},
+    issn = {0272-4979},
+    doi = {10.1093/imanum/draf071},
+    url = {https://doi.org/10.1093/imanum/draf071},
+    eprint = {https://academic.oup.com/imajna/advance-article-pdf/doi/10.1093/imanum/draf071/64166992/draf071.pdf},
 }
 ```
 

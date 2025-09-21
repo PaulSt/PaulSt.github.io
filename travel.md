@@ -1,6 +1,6 @@
 ---
 layout: block
-order: 4
+order: 5
 ---
 
 # Research visits
@@ -21,14 +21,15 @@ order: 4
 
 # Conferences and Workshops
 ### 2025  
-  * 8th ECCOMAS Young Investigators Conference and PhD Olympiad 2025  
+  * 8th ECCOMAS Young Investigators Conference  
     17/09 → 19/09, Pescara, IT
   * ENUMATH 2025  
     01/09 → 05/09, Heidelberg, DE
-  * 6th NGSolve User Meeting
-  * Austrian Numerical Analysis Day 2015  
+  * 6th NGSolve User Meeting  
+    11/06 → 13/06, Hamburg, DE
+  * Austrian Numerical Analysis Day 2025  
     08/05 → 09/05, Salzburg, AT
-  * SIAM Conference on Computational Science and Engineering (CSE25)  
+  * SIAM Conference on Computational Science and Engineering  
     03/03 → 07/03, Fort Worth, Texas, USA
 
 <!--more-->
@@ -156,6 +157,7 @@ order: 4
 
 
 # Gallery
+# ![Anaday 2025](/assets/gallery/anaday25.jpg) *Austrian Numerical Analysis Day*
 # ![Trefftz Methods 2024](/assets/gallery/trefftz24.jpg) *Contemporary Challenges in Trefftz Methods*
 # ![Chemnitz FEM 2024](/assets/gallery/cfem24.jpg) *Chemnitz Finite Element Symposium 2024*
 # ![NGSolve Usermeeting 2024](/assets/gallery/ngs24.jpeg) *5th NGSolve User Meeting 2024*

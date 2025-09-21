@@ -1,7 +1,7 @@
 ---
 layout: block
 title: Publications
-order: 2
+order: 3
 ---
 
   14. _A unified framework for Trefftz-like discretization methods_  
