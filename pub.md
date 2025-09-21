@@ -12,7 +12,7 @@ order: 2
 [arXiv:2411.14819](https://arxiv.org/abs/2411.14819), 2024  [[pdf](https://arxiv.org/pdf/2411.14819.pdf),[cite](./cite#item13)]  
   12. _Polynomial quasi-Trefftz DG for PDEs with smooth coefficients: elliptic problems_  
 Lise-Marie Imbert-Gérard, Andrea Moiola, Chiara Perinati, PS  
-[arXiv:2408.00932](https://arxiv.org/abs/2408.00392), 2024  [[pdf](https://arxiv.org/pdf/2408.00392.pdf),[cite](./cite#item12)]  
+[IMA J. Numer. Anal.](https://doi.org/10.1093/imanum/drae094), 2024  [[pdf](https://arxiv.org/pdf/2408.00392.pdf),[cite](./cite#item12)]  
   11. _Sparsity comparison of polytopal finite element methods_  
 Christoph Lehrenfeld, PS, Maximilian Zienecker  
 [Proceedings Appl. Math. Mech.](https://doi.org/10.1002/pamm.202400150), 2024  [[pdf](https://arxiv.org/pdf/2405.16864.pdf),[cite](./cite#item11)]    
@@ -27,7 +27,7 @@ Fabian Heimann, Christoph Lehrenfeld, PS, Henry von Wahl
 [ESAIM: M2AN](https://doi.org/10.1051/m2an/2023064), 2022  [[pdf](https://arxiv.org/pdf/2212.12236.pdf),[cite](./cite#item8)]  
   7. _A new T-compatibility condition and its application to the discretization of the damped time-harmonic Galbrun's equation_  
 Martin Halla, Christoph Lehrenfeld, PS  
-[arXiv:2209.01878](https://arxiv.org/abs/2209.01878), 2022  [[pdf]( https://arxiv.org/pdf/2209.01878.pdf),[cite](./cite#item7),[slides](./assets/slides/galbrun.pdf)]
+[IMA J. Numer. Anal.](https://doi.org/10.1093/imanum/draf071), 2022  [[pdf]( https://arxiv.org/pdf/2209.01878.pdf),[cite](./cite#item7),[slides](./assets/slides/galbrun.pdf)]
   6. _Robust finite element discretizations for a simplified Galbrun's equation_  
 Tilman Alemán, Martin Halla, Christoph Lehrenfeld, PS  
 [eccomas2022](https://www.scipedia.com/public/Aleman_et_al_2022a), 2022  [[pdf]( https://arxiv.org/pdf/2205.15650.pdf),[cite](./cite#item6)]
