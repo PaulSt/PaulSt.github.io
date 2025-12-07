@@ -4,7 +4,7 @@ Date:  2021-11-01
 There are some very nice [instructions](https://cpde.math.uni-goettingen.de/en/software/goesetup/index.html) showing how to log in on the HPC cluster in Göttingen and how to get ngsolve and xfem up and running. Based on the setup scripts there, I put together an [install script for ngstrefftz](/assets/hpc-ngstrefftz.txt).
 
 The script uses the following recommended directory structure
-```
+```bash
 $BASEDIR
 ├── src
 ├── build
@@ -17,7 +17,7 @@ Make sure to have ngsolve installed, you can find an install script [here](https
 With this, only a simple `run.sh` script is missing to get your code started. The script takes care of choosing the correct hardware and loading the modules. 
 A list of hardware can be found [here](https://www.gwdg.de/web/guest/hpc-on-campus/scc), most important choices are the partition `-p`, allowed runtime `-t`, thread `-n`, nodes `-N`, and memory `--mem`. 
 
-```
+```bash
 #!/bin/bash
 #SBATCH -p medium
 #SBATCH -t 24:00:00

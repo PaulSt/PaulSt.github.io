@@ -15,9 +15,12 @@ TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = 'en'
 
+PYGMENTS_STYLE = "gruvbox-light"
+
 PLUGINS = [
     'neighbors',
     'minchin.pelican.plugins.summary',
+    'render_math',
 ]
 
 # Feed generation is usually not desired when developing
