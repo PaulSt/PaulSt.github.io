@@ -3,7 +3,9 @@ Order: hidden
 Title: BibTeXs
 
 
-13. ```
+<ol>
+<li id="item14">
+```text
 @article{LLSV_ARXIV_2024,
     title={A unified framework for {T}refftz-like discretization methods}, 
     author={Philip L. Lederer and Christoph Lehrenfeld and Paul Stocker and Igor Voulis},
@@ -12,19 +14,28 @@ Title: BibTeXs
     doi = {10.48550/arXiv.2412.00806},
 }
 ```
-
-13. ```
-@article{GPS_ARXIV_2024,
-    title={Inf-sup stable space-time {L}ocal {D}iscontinuous {G}alerkin method for the heat equation}, 
-    author={Sergio Gómez and Chiara Perinati and Paul Stocker},
-    year = {2024},
-    journal = {arXiv preprint arxiv:2411.14819},
-    doi = {10.48550/arXiv.2411.14819},
+</li>
+<br>
+<li id="item13">
+```text
+@article{GPS_JSC_2025,
+  author    = {Sergio Gómez and Chiara Perinati and Paul Stocker},
+  title     = {Inf-sup stable space--time Local Discontinuous Galerkin method for the heat equation},
+  journal   = {Journal of Scientific Computing},
+  year      = {2025},
+  volume    = {106},
+  number    = {1},
+  pages     = {22},
+  doi       = {10.1007/s10915-025-03121-7},
+  url       = {https://doi.org/10.1007/s10915-025-03121-7},
+  issn      = {1573-7691},
 }
 ```
-
-12.  ```
-@article{10.1093/imanum/drae094,
+</li>
+<br>
+<li id="item12">
+```text
+@article{IMPS_IMAJNA_2025,
     author = {Imbert-Gérard, Lise-Marie and Moiola, Andrea and Perinati, Chiara and Stocker, Paul},
     title = {Polynomial quasi-Trefftz DG for PDEs with smooth coefficients: elliptic problems},
     journal = {IMA Journal of Numerical Analysis},
@@ -37,8 +48,10 @@ Title: BibTeXs
     eprint = {https://academic.oup.com/imajna/advance-article-pdf/doi/10.1093/imanum/drae094/61503428/drae094.pdf},
 }
 ```
-
-11.  ```
+</li>
+<br>
+<li id="item11">
+```text
 @article{LSZ_PAMM_2024,
     title = {Sparsity comparison of polytopal finite element methods},
     author = {Lehrenfeld, Christoph and Stocker, Paul and Zienecker, Maximilian},
@@ -52,8 +65,10 @@ Title: BibTeXs
     year = {2024}
 }
 ```
-
-10.  ```
+</li>
+<br>
+<li id="item10">
+```text
 @article{LLS_NM_2024,
     title={Trefftz Discontinuous {Galerkin} discretization for the {Stokes} problem},
     author={Philip L. Lederer and Christoph Lehrenfeld and Paul Stocker},
@@ -62,8 +77,10 @@ Title: BibTeXs
     doi = {10.1007/s00211-024-01404-z},
 }
 ```
-
-9.  ```
+</li>
+<br>
+<li id="item9">
+```text
 @article{GMPS_AML_2023,
     title = {On polynomial {T}refftz spaces for the linear time-dependent {S}chrödinger equation},
     journal = {Applied Mathematics Letters},
@@ -76,8 +93,10 @@ Title: BibTeXs
     author = {Sergio Gómez and Andrea Moiola and Ilaria Perugia and Paul Stocker},
 }
 ```
-
-8.  ```
+</li>
+<br>
+<li id="item8">
+```text
 @article{HLSW_M2AN_2022,
     title = {Unfitted {T}refftz discontinuous {G}alerkin methods for elliptic boundary value problems},
     author = {Heimann, Fabian and  Lehrenfeld, Christoph and Stocker, Paul and von Wahl, Henry},
@@ -86,9 +105,11 @@ Title: BibTeXs
     doi = {10.1051/m2an/2023064},
 }
 ```
-
-7.  ```
-@article{10.1093/imanum/draf071,
+</li>
+<br>
+<li id="item7">
+```text
+@article{HLS_IMAJNA_2025,
     author = {Halla, Martin and Lehrenfeld, Christoph and Stocker, Paul},
     title = {A new T-compatibility condition and its application to the discretization of the damped time-harmonic Galbrun’s equation},
     journal = {IMA Journal of Numerical Analysis},
@@ -101,8 +122,10 @@ Title: BibTeXs
     eprint = {https://academic.oup.com/imajna/advance-article-pdf/doi/10.1093/imanum/draf071/64166992/draf071.pdf},
 }
 ```
-
-6.  ```
+</li>
+<br>
+<li id="item6">
+```text
 @proceeding{AHLS_ECCOMAS_2022,
     title = {Robust finite element discretizations for a simplified {G}albrun's equation},
     author = {Alemán, Tilman and Halla, Martin and Lehrenfeld, Christoph and Stocker, Paul},
@@ -112,8 +135,10 @@ Title: BibTeXs
     doi = {10.23967/eccomas.2022.206},
 }
 ```
-
-5.  ```
+</li>
+<br>
+<li id="item5">
+```text
 @article{S_JOSS_2022,
     doi = {10.21105/joss.04135},
     url = {https://doi.org/10.21105/joss.04135},
@@ -128,8 +153,10 @@ Title: BibTeXs
     fjournal = {Journal of Open Source Software}
 }
 ```
-
-4.  ```
+</li>
+<br>
+<li id="item4">
+```text
 @article{LS_IJMNE_2023,
     author = {Lehrenfeld, Christoph and Stocker, Paul},
     title = {Embedded {Trefftz} discontinuous {Galerkin} methods},
@@ -143,8 +170,10 @@ Title: BibTeXs
     year = {2023}
 } 
 ```
-
-3.  ```
+</li>
+<br>
+<li id="item3">
+```text
 @article{IGMS_MC_2021,
     title={A space-time quasi-{T}refftz {DG} method for the wave equation with piecewise-smooth coefficients}, 
     author={Lise-Marie Imbert-Gérard and Andrea Moiola and Paul Stocker},
@@ -155,8 +184,10 @@ Title: BibTeXs
     URL = {https://doi.org/10.1090/mcom/3786}
 }
 ```
-
-2.  ```
+</li>
+<br>
+<li id="item2">
+```text
 @article{BPS_SINUM_2022,
     author = {Braukhoff, Marcel and Perugia, Ilaria and Stocker, Paul},
     title = { {A}n Entropy Structure Preserving Space-Time Formulation for Cross-Diffusion Systems: {A}nalysis and {G}alerkin Discretization},
@@ -171,8 +202,10 @@ Title: BibTeXs
     eprint = { https://doi.org/10.1137/20M1360086 }
 }
 ```
-
-1.  ```
+</li>
+<br>
+<li id="item1">
+```text
 @article {PSSW_CMA_2020,
     AUTHOR = {Perugia, Ilaria and Sch\"{o}berl, Joachim and Stocker, Paul and Wintersteiger, Christoph},
     TITLE = {Tent pitching and {T}refftz-{DG} method for the acoustic wave equation},
@@ -189,3 +222,5 @@ Title: BibTeXs
     URL = {https://doi.org/10.1016/j.camwa.2020.01.006},
 }
 ```
+</li>
+</ol>
