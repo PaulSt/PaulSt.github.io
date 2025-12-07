@@ -1,9 +1,7 @@
----
-layout: block
-order: 5
----
+Title: Research visits
+Layout: block
+Order: 5
 
-# Research visits
 * University of Göttingen, Germany, 31/03/25 → 04/04/25,  
     working with [C. Lehrenfeld](https://cpde.math.uni-goettingen.de/en/members/CLehrenfeld/index.html) and [I. Voulis]()
 * University of Arizona, USA, 24/02/25 → 28/02/25,  
@@ -32,7 +30,7 @@ order: 5
   * SIAM Conference on Computational Science and Engineering  
     03/03 → 07/03, Fort Worth, Texas, USA
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 ### 2024  
   * Workshop: High-dimensional methods in stochastic and multiscale PDEs  
@@ -157,19 +155,19 @@ order: 5
 
 
 # Gallery
-# ![Anaday 2025](/assets/gallery/anaday25.jpg) *Austrian Numerical Analysis Day*
-# ![Trefftz Methods 2024](/assets/gallery/trefftz24.jpg) *Contemporary Challenges in Trefftz Methods*
-# ![Chemnitz FEM 2024](/assets/gallery/cfem24.jpg) *Chemnitz Finite Element Symposium 2024*
-# ![NGSolve Usermeeting 2024](/assets/gallery/ngs24.jpeg) *5th NGSolve User Meeting 2024*
-# ![ICOSAHOM 2023](/assets/gallery/icosahom23.jpg) *ICOSAHOM 2023*
-# ![NGSolve Usermeeting 2023](/assets/gallery/ngs23.jpeg) *4th NGSolve User Meeting 2023*
-# ![waves22](/assets/gallery/waves22.jpg) *WAVES 2022*
-# ![Kyoto 2020](/assets/gallery/japan20.jpg) *Visit Kyoto University 2020*
-# ![VSM 19](/assets/gallery/vsm19.jpg) *Vienna Summer of Mathematics 2019*
-# ![Oberwolfach 2019](/assets/gallery/oberwolfach19_2.jpg) *Oberwolfach*
-# ![Oberwolfach 2019](/assets/gallery/oberwolfach19.jpg) *Wave Phenomena: Analysis and Numerics 2019*
-# ![waves19](/assets/gallery/waves19.jpg) *WAVES 2019*
-# ![MAFELAP 2019](/assets/gallery/mafelap19.jpg) *MAFELAP 2019*
-# ![VEM Summerschool](/assets/gallery/vem18.jpg) *Summer School: VEM 2018*
-# ![NGSolve Usermeeting 2018](/assets/gallery/ngs18.jpg) *2nd NGSolve User Meeting 2018*
-# ![NGSolve Usermeeting 2017](/assets/gallery/ngs17.jpg) *1st NGSolve User Meeting 2017*
+# ![Anaday 2025](/images/gallery/anaday25.jpg) *Austrian Numerical Analysis Day*
+# ![Trefftz Methods 2024](/images/gallery/trefftz24.jpg) *Contemporary Challenges in Trefftz Methods*
+# ![Chemnitz FEM 2024](/images/gallery/cfem24.jpg) *Chemnitz Finite Element Symposium 2024*
+# ![NGSolve Usermeeting 2024](/images/gallery/ngs24.jpeg) *5th NGSolve User Meeting 2024*
+# ![ICOSAHOM 2023](/images/gallery/icosahom23.jpg) *ICOSAHOM 2023*
+# ![NGSolve Usermeeting 2023](/images/gallery/ngs23.jpeg) *4th NGSolve User Meeting 2023*
+# ![waves22](/images/gallery/waves22.jpg) *WAVES 2022*
+# ![Kyoto 2020](/images/gallery/japan20.jpg) *Visit Kyoto University 2020*
+# ![VSM 19](/images/gallery/vsm19.jpg) *Vienna Summer of Mathematics 2019*
+# ![Oberwolfach 2019](/images/gallery/oberwolfach19_2.jpg) *Oberwolfach*
+# ![Oberwolfach 2019](/images/gallery/oberwolfach19.jpg) *Wave Phenomena: Analysis and Numerics 2019*
+# ![waves19](/images/gallery/waves19.jpg) *WAVES 2019*
+# ![MAFELAP 2019](/images/gallery/mafelap19.jpg) *MAFELAP 2019*
+# ![VEM Summerschool](/images/gallery/vem18.jpg) *Summer School: VEM 2018*
+# ![NGSolve Usermeeting 2018](/images/gallery/ngs18.jpg) *2nd NGSolve User Meeting 2018*
+# ![NGSolve Usermeeting 2017](/images/gallery/ngs17.jpg) *1st NGSolve User Meeting 2017*

@@ -1,12 +1,12 @@
----
-layout: block
-title: Advanced applications & analysis of Trefftz methods
-order: 2
----
+Layout: block
+Title: Advanced applications & analysis of Trefftz methods
+Order: 2
 
 The goal of this project is to turn Trefftz methods into a versatile and widely usable tool in numerical simulation.
 ## Project details
 
+| | |
+| --- | --- |
 | 🎓 Funding program | ESPRIT |
 | ⏳ Status | ongoing |
 | 🚀 Start | July 1, 2024 |
@@ -18,7 +18,7 @@ The goal of this project is to turn Trefftz methods into a versatile and widely 
 | 🔗 Grant DOI | 10.55776/ESP4389824 |
 
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 ## Publications related to this project
 

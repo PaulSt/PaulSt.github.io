@@ -1,0 +1,3 @@
+[submodule "themes/eleven-pelican-theme"]
+	path = themes/eleven-pelican-theme
+	url = git@github.com:PaulSt/eleven-pelican-theme.git

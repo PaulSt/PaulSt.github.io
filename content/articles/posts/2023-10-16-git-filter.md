@@ -1,8 +1,5 @@
----
-layout: post
-title:  "git dark magic"
-categories: debug
----
+Title: git dark magic
+Date:  2023-10-16
 
 So, your git history is messed up, or you are thinking about messing it up. 
 To use the dark magic of git, you pay the price of breaking the repo history, but hopefully fix something else.

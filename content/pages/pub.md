@@ -1,8 +1,6 @@
----
-layout: block
-title: Publications
-order: 3
----
+Layout: block
+Title: Publications
+Order: 3
 
   14. _A unified framework for Trefftz-like discretization methods_  
   Philip L. Lederer, Christoph Lehrenfeld, PS, Igor Voulis  
@@ -48,7 +46,7 @@ Ilaria Perugia, Joachim Schöberl, PS, Christoph Wintersteiger
 [Comput. Math. Appl.](https://doi.org/10.1016/j.camwa.2020.01.006), 2020  [[pdf](https://arxiv.org/pdf/1907.02367.pdf),[cite](./cite#item1)]  
 
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 See also 
 [google-scholar](https://scholar.google.com/citations?user=FMK3AzAAAAAJ&hl=en&oi=ao)
 and

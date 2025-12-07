@@ -1,8 +1,5 @@
----
-layout: post
-title:  "Space-time Maxwell-Stefan equation"
-categories: NGSolve 
----
+Title: Space-time Maxwell-Stefan equation
+Date:  2020-10-10
 
 <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
@@ -71,4 +68,4 @@ $$
 
 Applied to the Duncan Toor example: 
 
-<div align="middle"><img src="/assets/duncantoor.gif" width="40%" align="middle"/></div>
+# ![Duncan Toor example](/images/duncantoor.gif) *Maxwell-Stefan system solved with space-time DG method*

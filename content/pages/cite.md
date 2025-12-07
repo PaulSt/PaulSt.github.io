@@ -1,7 +1,7 @@
----
-layout: page
-title: BibTeXs
----
+Layout: block
+Order: hidden
+Title: BibTeXs
+
 
 13. ```
 @article{LLSV_ARXIV_2024,
