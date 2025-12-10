@@ -158,6 +158,7 @@ Order: 5
 # ![Anaday 2025](/images/gallery/anaday25.jpg) *Austrian Numerical Analysis Day*
 # ![Trefftz Methods 2024](/images/gallery/trefftz24.jpg) *Contemporary Challenges in Trefftz Methods*
 # ![Chemnitz FEM 2024](/images/gallery/cfem24.jpg) *Chemnitz Finite Element Symposium 2024*
+# ![waves24](/images/gallery/waves24.jpg) *WAVES 2024*
 # ![NGSolve Usermeeting 2024](/images/gallery/ngs24.jpeg) *5th NGSolve User Meeting 2024*
 # ![ICOSAHOM 2023](/images/gallery/icosahom23.jpg) *ICOSAHOM 2023*
 # ![NGSolve Usermeeting 2023](/images/gallery/ngs23.jpeg) *4th NGSolve User Meeting 2023*
