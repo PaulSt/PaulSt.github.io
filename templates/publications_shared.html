@@ -1,0 +1,150 @@
+<style>
+  .pubbox-list {
+    margin: 0;
+    padding: 0 0 0 1.8em;
+    list-style-position: outside;
+  }
+
+  .pubbox-list > .pubbox-item {
+    margin: 0 0 .1rem 0;
+    padding: 0;
+  }
+
+  .pubbox-item > p {
+    margin: 0;
+  }
+
+  .pubbox-item > p + p {
+    margin-top: 0.06rem;
+  }
+
+  .pubbox-meta-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .pubbox-links {
+    white-space: nowrap;
+    margin-left: auto;
+  }
+
+  .pubbox-links button {
+    color: #4478A6;
+    font-size: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: color 0.2s, border-color 0.2s;
+    appearance: none;
+    -webkit-appearance: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    font: inherit;
+    line-height: inherit;
+  }
+
+  .pubbox-links a:hover,
+  .pubbox-links button:hover {
+    color: #325b7d;
+    border-color: #325b7d;
+  }
+
+  .pubbox-hidden-bib {
+    display: none;
+  }
+</style>
+
+<script>
+  (function () {
+    function copyBibtex(button) {
+      const targetId = button.getAttribute("data-copy-target");
+      if (!targetId) return;
+
+      const target = document.getElementById(targetId);
+      if (!target) return;
+
+      const text = target.textContent || "";
+      const oldText = button.textContent;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(function () {
+          button.textContent = "copied";
+          setTimeout(function () {
+            button.textContent = oldText;
+          }, 1200);
+        }).catch(function () {
+          button.textContent = "copy failed";
+          setTimeout(function () {
+            button.textContent = oldText;
+          }, 1200);
+        });
+      } else {
+        const textarea = document.createElement("textarea");
+        textarea.value = text;
+        textarea.setAttribute("readonly", "");
+        textarea.style.position = "absolute";
+        textarea.style.left = "-9999px";
+        document.body.appendChild(textarea);
+        textarea.select();
+
+        try {
+          document.execCommand("copy");
+          button.textContent = "copied";
+        } catch (err) {
+          button.textContent = "copy failed";
+        }
+
+        document.body.removeChild(textarea);
+        setTimeout(function () {
+          button.textContent = oldText;
+        }, 1200);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      const button = event.target.closest(".pubbox-links button[data-copy-target]");
+      if (!button) return;
+      copyBibtex(button);
+    });
+  })();
+</script>
+
+
+{% if PUBLICATIONS %}
+  <ol class="pubbox-list">
+    {% for pub in PUBLICATIONS %}
+      <li class="pubbox-item" id="pub-{{ pub.key }}">
+        <p><em>{{ pub.title }}</em></p>
+
+        {% if pub.authors %}
+          <p>{{ pub.authors | join(", ") }}</p>
+        {% endif %}
+
+        <div class="pubbox-meta-row">
+          <span>{%- if pub.url -%}<a href="{{ pub.url }}">{{ pub.journalabbr or pub.journal }}</a>{%- else -%}{{ pub.journalabbr or pub.journal }}{%- endif -%}, {{ pub.year }}</span>
+
+          <span class="pubbox-links">
+            [
+            {% set sep = joiner(", ") %}
+            {% if pub.preprint %}{{ sep() }}<a href="{{ pub.preprint }}">preprint</a>{% endif %}
+            {% if pub.slides %}{{ sep() }}<a href="{{ pub.slides }}">slides</a>{% endif %}
+            {% if pub.code %}{{ sep() }}<a href="{{ pub.code }}">code</a>{% endif %}
+            {{ sep() }}<button type="button" data-copy-target="bibcode-{{ loop.index }}">bibtex</button>
+            ]
+          </span>
+        </div>
+
+        <code id="bibcode-{{ loop.index }}" class="pubbox-hidden-bib">{{ pub.bibtex | e }}</code>
+      </li>
+    {% endfor %}
+  </ol>
+{% else %}
+  <p>No publications found.</p>
+{% endif %}

@@ -1,0 +1,28 @@
+{% extends "!theme/base.html" %}
+
+{% block content %}
+<main class="page-content" aria-label="Content">
+  <div class="w">
+    <a href="{{ SITEURL }}/">^</a>
+  </div>
+
+  <div class="box">
+    <h1>{{ page.title }}</h1>
+
+    {{ page.content }}
+
+    <h2>Publications related to this project</h2>
+    <ol>
+      {% for pub in PUBLICATIONS %}
+        {% if pub.esprit|int == 1 %}
+        <li>
+            <p><em>{{ pub.title }}</em><br>
+            {{ pub.authors | join(", ") }}<br>
+            {%- if pub.url -%}<a href="{{ pub.url }}">{{ pub.journalabbr or pub.journal }}</a>{%- else -%}{{ pub.journalabbr or pub.journal }}{%- endif -%}, {{ pub.year }}</p>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ol>
+  </div>
+</main>
+{% endblock %}

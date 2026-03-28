@@ -9,4 +9,6 @@ dependencies = [
     "beautifulsoup4>=4.14.3",
     "pelican-neighbors>=1.2.0",
     "pelican-render-math>=1.0.5",
+    "pybtex>=0.25.1",
+    "pylatexenc>=2.10",
 ]
