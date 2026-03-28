@@ -18,6 +18,18 @@ Order: 5
     working with [A. Moiola](http://matematica.unipv.it/moiola)
 
 # Conferences and Workshops
+### 2026  
+  * GAMM 96th Annual Meeting  
+    16/03 → 20/03, Stuttgart, DE
+  * NGSolve User Meeting  
+    29/06 → 01/07, Winterthur, CH
+  * CMAM  
+    20/07 → 24/07, Vienna, AT
+  * Trefftz Workshop  
+    07/09 → 09/09, Vienna, AT
+
+<!-- PELICAN_END_SUMMARY -->
+
 ### 2025  
   * 8th ECCOMAS Young Investigators Conference  
     17/09 → 19/09, Pescara, IT
@@ -29,8 +41,6 @@ Order: 5
     08/05 → 09/05, Salzburg, AT
   * SIAM Conference on Computational Science and Engineering  
     03/03 → 07/03, Fort Worth, Texas, USA
-
-<!-- PELICAN_END_SUMMARY -->
 
 ### 2024  
   * Workshop: High-dimensional methods in stochastic and multiscale PDEs  
