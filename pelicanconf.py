@@ -72,6 +72,24 @@ def _bib_entry_order(bib_path):
     pattern = re.compile(r"@\w+\s*\{\s*([^,\s]+)\s*,", re.MULTILINE)
     return pattern.findall(text)
 
+def _build_bibtex_for_copy(key, entry):
+    fields = dict(entry.fields)
+    lines = [f"@{entry.type}{{{key},"]
+
+    if entry.persons.get("author"):
+        author_value = " and ".join(str(person) for person in entry.persons["author"])
+        lines.append(f"  author     = {{{author_value}}},")
+
+    wanted = [
+        "title", "journal", "booktitle", "year",
+        "volume", "number", "pages", "doi", "url"
+    ]
+    for name in wanted:
+        if name in fields:
+            lines.append(f"  {name:<11}= {{{fields[name]}}},")
+
+    lines.append("}")
+    return "\n".join(lines)
 
 def _bib_entry_to_dict(key, entry):
     fields = dict(entry.fields)
@@ -80,12 +98,6 @@ def _bib_entry_to_dict(key, entry):
         _display_text(_person_to_string(person))
         for person in entry.persons.get("author", [])
     ]
-
-    bibtex_lines = [f"@{entry.type}{{{key},"]
-    for field_name, value in fields.items():
-        bibtex_lines.append(f"  {field_name:<11}= {{{value}}},")
-    bibtex_lines.append("}")
-    bibtex = "\n".join(bibtex_lines)
 
     return {
         "key": key,
@@ -98,8 +110,8 @@ def _bib_entry_to_dict(key, entry):
         "preprint": fields.get("preprint", ""),
         "slides": fields.get("slides", ""),
         "code": fields.get("code", ""),
-        "bibtex": bibtex,
-        "esprit": fields.get("esprit", ""),
+        "esprit": fields.get("esprit", ""),   # keep for template filtering
+        "bibtex": _build_bibtex_for_copy(key, entry),  # cleaned export
     }
 
 
