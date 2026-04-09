@@ -133,9 +133,9 @@
           <span class="pubbox-links">
             [
             {% set sep = joiner(", ") %}
-            {% if pub.preprint %}{{ sep() }}<a href="{{ pub.preprint }}">preprint</a>{% endif %}
-            {% if pub.slides %}{{ sep() }}<a href="{{ pub.slides }}">slides</a>{% endif %}
-            {% if pub.code %}{{ sep() }}<a href="{{ pub.code }}">code</a>{% endif %}
+            {%- if pub.preprint -%}{{ sep() }}<a href="{{ pub.preprint }}">preprint</a>{%- endif -%}
+            {%- if pub.slides -%}{{ sep() }}<a href="{{ pub.slides }}">slides</a>{%- endif -%}
+            {%- if pub.code -%}{{ sep() }}<a href="{{ pub.code }}">code</a>{%- endif -%}
             {{ sep() }}<button type="button" data-copy-target="bibcode-{{ loop.index }}">bibtex</button>
             ]
           </span>
