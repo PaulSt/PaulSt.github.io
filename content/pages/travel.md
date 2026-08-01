@@ -19,14 +19,14 @@ Order: 5
 
 # Conferences and Workshops
 ### 2026  
-  * GAMM 96th Annual Meeting  
-    16/03 → 20/03, Stuttgart, DE
-  * NGSolve User Meeting  
-    29/06 → 01/07, Winterthur, CH
-  * CMAM  
-    20/07 → 24/07, Vienna, AT
   * Trefftz Workshop  
     07/09 → 09/09, Vienna, AT
+  * CMAM  
+    20/07 → 24/07, Vienna, AT
+  * 7th NGSolve User Meeting  
+    29/06 → 01/07, Winterthur, CH
+  * GAMM 96th Annual Meeting  
+    16/03 → 20/03, Stuttgart, DE
 
 <!-- PELICAN_END_SUMMARY -->
 
@@ -165,7 +165,10 @@ Order: 5
 
 
 # Gallery
-# ![Anaday 2025](/images/gallery/anaday25.jpg) *Austrian Numerical Analysis Day*
+# ![NGSolve Usermeeting 2026](/images/gallery/ngs26.jpeg) *7th NGSolve User Meeting 2026*
+# ![Anaday 2026](/images/gallery/anaday26.jpg) *Austrian Numerical Analysis Day 2026*
+# ![NGSolve Usermeeting 2025](/images/gallery/ngs25.jpeg) *6th NGSolve User Meeting 2025*
+# ![Anaday 2025](/images/gallery/anaday25.jpg) *Austrian Numerical Analysis Day 2025*
 # ![Trefftz Methods 2024](/images/gallery/trefftz24.jpg) *Contemporary Challenges in Trefftz Methods*
 # ![Chemnitz FEM 2024](/images/gallery/cfem24.jpg) *Chemnitz Finite Element Symposium 2024*
 # ![waves24](/images/gallery/waves24.jpg) *WAVES 2024*
