@@ -5,7 +5,7 @@ BlockTemplate: publications_box.html
 Template: publications_page
 
 See also 
-[google-scholar](https://scholar.google.com/citations?user=FMK3AzAAAAAJ&hl=en&oi=ao)
+[google-scholar](https://scholar.google.com/citations?user=l6ZRIxMAAAAJ)
 and
 [orcid](https://orcid.org/0000-0001-5073-3366).
 

@@ -25,6 +25,8 @@ Order: 5
     20/07 → 24/07, Vienna, AT
   * 7th NGSolve User Meeting  
     29/06 → 01/07, Winterthur, CH
+  * Austrian Numerical Analysis Day 2026  
+    07/05 → 08/05, Graz, AT
   * GAMM 96th Annual Meeting  
     16/03 → 20/03, Stuttgart, DE
 
