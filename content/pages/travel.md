@@ -52,7 +52,7 @@ Order: 5
   * Waves   
     30/06 → 05/07, Berlin, DE   
   * 5th NGSolve User Meeting,   
-    17/06 → 19/06, Vienna, Aut   
+    17/06 → 19/06, Vienna, AT   
   * Banff CMO: Contemporary Challenges in Trefftz Methods   
     12/05 → 17/05, Oaxaca, MX  
 
@@ -119,12 +119,12 @@ Order: 5
     26/08 → 30/08, Vienna, AT
   * ICIAM 2019   
     15/07 → 19/07, Valencia, ES 
-  * 3nd NGSolve User Meeting  
+  * 3rd NGSolve User Meeting  
     01/07 → 03/07, Vienna, AT
   * Mafelap 2019:  
     18/06 → 21/06, London, UK
   * The 17th European Finite Element Fair:  
-    17/05 → 18/05, Nikosia, CY
+    17/05 → 18/05, Nicosia, CY
   * Austrian Numerical Analysis Day 2019:  
     9/05 → 10/05, Graz, AT
   * 1st VDS Winter School on Quantum Computation  

@@ -8,7 +8,7 @@ Two examples of the current Trefftz-DG method using tent pitching.
 
 # ![material](/images/material.gif) *A wave in inhomogeneous material*
 
-I am still a little torn about the current way of steering things from python, because it is quite rigid, but at least it is possible to start tent pitching using Trefftz-DG for the accoustic wave equation.
+I am still a little torn about the current way of steering things from python, because it is quite rigid, but at least it is possible to start tent pitching using Trefftz-DG for the acoustic wave equation.
 
 We start by importing and setting some parameters:
 ```python

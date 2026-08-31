@@ -8,4 +8,3 @@ Order: 1
 * 2016–2018 Mathematics and Models @ [riskine GmbH](https://riskine.com) 
 * 2014–2017 MSc Applied Mathematics @ [University Of Vienna](https://mathematik.univie.ac.at/) 
 * 2011–2014 BSc Mathematics @ [University Of Vienna](https://mathematik.univie.ac.at/) 
-

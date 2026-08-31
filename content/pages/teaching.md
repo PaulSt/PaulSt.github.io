@@ -9,9 +9,9 @@ Order: 4
 * 2019SS [UE Analysis for Physicists II](https://ufind.univie.ac.at/en/course.html?lv=260110&semester=2019S)
 * 2018WS [UE Problem session to Linear Algebra for Physicists](https://ufind.univie.ac.at/en/course.html?lv=260227&semester=2018W)
 
-
-# Co-Supervised Master's theses
+# Master's theses (co-supervision)
 * _Embedded Trefftz Trace DG Methods for PDEs on unfitted Surfaces_, Erik Schlesinger, 2023 [[http](https://doi.org/10.25625/QTOPWD)]
 * _Robust Finite Element Discretizations for a PDE arising in Helioseismology_, Tilman Alemán, 2022 [[http](https://doi.org/10.25625/1GBYXP/YYNAJF)]
 
-
+# Bachelor's thesis
+* _Preconditioners for discontinuous Galerkin discretizations of the Helmholtz equation_, Moritz Gallauner, 2026 [[http](https://phaidra.univie.ac.at/o:2348836)]

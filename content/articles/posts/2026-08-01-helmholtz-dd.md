@@ -1,7 +1,7 @@
 Title: Helmholtz DD preconditioners
 Date:  2026-08-01
 
-DG methods for Helmholtz can naturally encorporate Robin-type transmisson conditions. 
+DG methods for Helmholtz can naturally incorporate Robin-type transmission conditions. 
 This is a key ingredient here, that allows us to build a domain decomposition preconditioner by restricting the global matrix.
 
 
