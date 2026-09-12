@@ -167,11 +167,13 @@ Order: 5
 
 
 # Gallery
+# ![Trefftz Workshop 2026](/images/gallery/trefftz26.jpg) *Trefftz Workshop 2026*
 # ![NGSolve Usermeeting 2026](/images/gallery/ngs26.jpeg) *7th NGSolve User Meeting 2026*
 # ![Anaday 2026](/images/gallery/anaday26.jpg) *Austrian Numerical Analysis Day 2026*
 # ![NGSolve Usermeeting 2025](/images/gallery/ngs25.jpeg) *6th NGSolve User Meeting 2025*
 # ![Anaday 2025](/images/gallery/anaday25.jpg) *Austrian Numerical Analysis Day 2025*
 # ![Trefftz Methods 2024](/images/gallery/trefftz24.jpg) *Contemporary Challenges in Trefftz Methods*
+# ![Trefftz Methods 2024](/images/gallery/trefftz24-2.jpg) *Contemporary Challenges in Trefftz Methods*
 # ![Chemnitz FEM 2024](/images/gallery/cfem24.jpg) *Chemnitz Finite Element Symposium 2024*
 # ![waves24](/images/gallery/waves24.jpg) *WAVES 2024*
 # ![NGSolve Usermeeting 2024](/images/gallery/ngs24.jpeg) *5th NGSolve User Meeting 2024*
