@@ -18,5 +18,8 @@ The goal of this project is to turn Trefftz methods into a versatile and widely 
 | 🌐 Grant website | [fwf.ac.at](https://doi.org/10.55776/ESP4389824) |
 | 🔗 Grant DOI | 10.55776/ESP4389824 |
 
+## Trefftz Workshop 2026
 
-<!-- PELICAN_END_SUMMARY -->
+To mark 100 years since Erich Trefftz’s seminal 1926 paper, the [Trefftz Workshop 2026: A Century of Trefftz Methods](https://trefftz2026.univie.ac.at/) took place in Vienna from 7-9 September 2026. <!-- PELICAN_END_SUMMARY --> The project helped fund the workshop, which I co-organized; it was a wonderful few days of inspiring talks and discussions.
+
+
